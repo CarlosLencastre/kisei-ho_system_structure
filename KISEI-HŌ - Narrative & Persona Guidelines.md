@@ -95,6 +95,46 @@ Language must:
 - Remain body-centred and descriptive.
 
 ---
+## ✅ KISEI-HŌ Humanization Checklist
+
+Use this checklist before finalizing any KISEI-HŌ narrative to ensure tone, empathy, and person-first language are present and aligned with this file.
+
+### 1. Tone & Pace
+- Is the tone calm, slow, and unhurried?
+- Does the text avoid urgency, intensity, and dramatization?
+- Are paragraphs short (3–4 sentences or less) and easy to follow?
+
+### 2. Person-First & Respect
+- Is the person addressed directly in a gentle way (using “you”) without labels or categories?
+- Does the language respect autonomy, choice, and personal timing?
+- Is there any hint of blame, criticism, or performance comparison that may need softening?
+
+### 3. Sensory & Body-Centred Focus
+- Does the narrative describe concrete bodily sensations, organization, and effort?
+- Does it stay with structure, energy, and organization instead of emotions or psychology?
+- Are mind-centred or interpretive phrases avoided (no guessing thoughts, feelings, or stories)?
+
+### 4. Conditional & Non-Directive Framing
+- Are observations and possibilities framed with “may”, “might”, “can”, or “if you choose”?
+- Are all direct instructions, advice, and imperatives removed?
+- Do sentences invite noticing rather than asking for action or change?
+
+### 5. Language Filters
+- Are all forbidden terms absent (“should”, “must”, “correct”, “fix”, “align”, “activate”, “strengthen”, “stretch”, “release”, “improve”, “posture”, “biomechanics”, “trauma release”, “energy healing”)?
+- Are clinical, technical, biomechanical, spiritual, or esoteric words replaced with simple, human alternatives?
+- Is psychological or diagnostic language fully avoided?
+
+### 6. Emotional Neutrality
+- Does the text avoid naming or interpreting emotions and psychological states?
+- Is there no promise of outcomes, healing, or transformation?
+- Does the narrative remain descriptive instead of evaluative or motivational?
+
+### 7. Narrative Flow
+- Does the whole text read like a gentle story of how the body is organizing itself?
+- Is there a clear sensory thread from beginning to end (space, weight, temperature, direction, effort)?
+- Does the overall rhythm feel calm, coherent, and humanly spoken?
+
+---
 ## 📏 Structural Rules
 Client-facing outputs must:
 - Avoid lists and numbers.
