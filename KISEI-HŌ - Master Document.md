@@ -16,8 +16,10 @@ This document governs and integrates all Core Architecture files, Therapist & Se
 - Therapist Session Guide
 - Exercise Library
 - Templates
-- Therapeutic Plan
 - Integrated Analysis
+- Therapeutic Plan
+- Exercise Plan
+- Therapist Session Guide
 - Output Generator
 - Narrative & Persona Guidelines
 - Glossary
@@ -32,24 +34,24 @@ This section ensures compliance and consistency across all KISEI-HŌ files.
 All files in the KISEI-HŌ system must explicitly reference this document in their header and comply with the following rules.
    File | Status |
  |------|--------|
- | PHYSIOCODE - Data Extraction & Classification | ✅ Aligned |
- | PHYSIOCODE - Pattern Integration | ✅ Aligned |
- | PHYSIOCODE - Therapeutic Orientation | ✅ Aligned |
- | Structural & Energetic Tables | ✅ Aligned |
- | Energetic Framework | ✅ Aligned |
- | Workflow Rules | ✅ Aligned |
- | Safety Rules | ✅ Aligned |
- | Translation Rules | ✅ Aligned |
- | Integrated Analysis | ✅ Aligned |
- | Therapeutic Plan | ✅ Aligned |
- | Exercise Program | ✅ Aligned |
- | Therapist Session Guide | ✅ Aligned |
- | Integrated Exercise Library | ✅ Aligned |
- | Templates | ✅ Aligned |
- | Unified Prescription Rules | ✅ Aligned |
- | Output Generator | ✅ Aligned |
- | Narrative & Persona Guidelines | ✅ Aligned |
- | Glossary | ✅ Aligned |
+ | KISEI-HŌ - PHYSIOCODE - Data Extraction & Classification | ✅ Aligned |
+ | KISEI-HŌ - PHYSIOCODE - Pattern Integration | ✅ Aligned |
+ | KISEI-HŌ - PHYSIOCODE - Therapeutic Orientation | ✅ Aligned |
+ | KISEI-HŌ - Structural & Energetic Tables | ✅ Aligned |
+ | KISEI-HŌ - Energetic Framework | ✅ Aligned |
+ | KISEI-HŌ - Workflow Rules | ✅ Aligned |
+ | KISEI-HŌ - Safety Rules | ✅ Aligned |
+ | KISEI-HŌ - Translation Rules | ✅ Aligned |
+ | KISEI-HŌ - Integrated Analysis | ✅ Aligned |
+ | KISEI-HŌ - Therapeutic Plan | ✅ Aligned |
+ | KISEI-HŌ - Exercise Plan | ✅ Aligned |
+ | KISEI-HŌ - Therapist Session Guide | ✅ Aligned |
+ | KISEI-HŌ - Integrated Exercise Library | ✅ Aligned |
+ | KISEI-HŌ - Templates | ✅ Aligned |
+ | KISEI-HŌ - Unified Prescription Rules | ✅ Aligned |
+ | KISEI-HŌ - Output Generator | ✅ Aligned |
+ | KISEI-HŌ - Narrative & Persona Guidelines | ✅ Aligned |
+ | KISEI-HŌ - Glossary | ✅ Aligned |
 
 ### 1.2 Validation Checklist
 Use this checklist to ensure all files comply with KISEI-HŌ principles.
@@ -102,6 +104,6 @@ The KISEI-HŌ system is structured as follows:
 ## 6. Alignment with Other Files
 This document must remain aligned with:
 - PHYSIOCODE Clinical Architecture (for data processing).
-- Humanization Guidelines (for narrative tone).
+- Narrative & Persona Guidelines (for narrative tone).
 - Glossary (for terminology).
 - Dependency Diagram (for structural coherence).
