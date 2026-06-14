@@ -57,5 +57,5 @@ No file may contradict the Master Document.
 
 - Integrated Analysis
 - Therapeutic Plan
-- Exercise Program
+- Exercise Plan
 - Output Generator
