@@ -57,13 +57,6 @@ The Therapeutic Plan must:
 - avoid prescriptive or corrective language
 
 ---
-## **2. Cross-References**
-This file integrates with:
-- **Integrated Analysis**: For structural, energetic, and axis findings (see *KISEI-HŌ - Integrated Analysis.md*).
-- **Exercise Program**: For movement orientations (see *KISEI-HŌ - Exercise Program.md*).
-- **Narrative & Persona Guidelines**: For tone and language (see *KISEI-HŌ - Narrative & Persona Guidelines.md*).
-
----
 # 4. Therapeutic Direction
 
 Therapeutic direction must describe:
@@ -75,13 +68,7 @@ Therapeutic direction must describe:
 All orientation must remain conditional.
 
 ---
-## **2. Cross-References**
-This file integrates with:
-- **Integrated Analysis**: For structural, energetic, and axis findings (see *KISEI-HŌ - Integrated Analysis.md*).
-- **Exercise Program**: For movement orientations (see *KISEI-HŌ - Exercise Program.md*).
-- **Narrative & Persona Guidelines**: For tone and language (see *KISEI-HŌ - Narrative & Persona Guidelines.md*).
 
----
 # 5. Integration With Other Files
 
 The Therapeutic Plan must remain aligned with:
