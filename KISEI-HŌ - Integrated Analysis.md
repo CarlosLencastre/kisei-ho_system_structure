@@ -142,3 +142,5 @@ Forbidden:
 The Integrated Analysis follows the principle:
 
 > "Integration reveals the body’s organisation; narrative reveals its meaning."
+
+* This file appears in both categories because it functions as both a processing template (Interpretation) and an output document definition (Output Templates).
