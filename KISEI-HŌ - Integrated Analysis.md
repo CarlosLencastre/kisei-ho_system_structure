@@ -95,7 +95,8 @@ Narrative must:
 - avoid emotional or spiritual interpretation
 
 ---
-## 7. Integrated Pattern Examples
+## 8. Integrated Pattern Examples
+
 Examples of how structural, energetic, and axis data combine into a unified narrative.
 
 ### Example 1: Upper-Dominant with Shoulder Blockage
@@ -120,7 +121,7 @@ Examples of how structural, energetic, and axis data combine into a unified narr
 - Integrated Narrative: "Your body maintains a balanced distribution of effort, with a tendency to hold tension in your central region. This suggests a protective organization around your core."
 
 ---
-## 8. Safety Validation
+## 9. Safety Validation
 
 Integrated Analysis must follow the Safety Rules:
 
@@ -136,7 +137,7 @@ Forbidden:
 - invented data
 
 ---
-## 9. Final Principle
+## 10. Final Principle
 
 The Integrated Analysis follows the principle:
 
