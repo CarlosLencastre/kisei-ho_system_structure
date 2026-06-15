@@ -65,8 +65,11 @@ Energetic states must be **cross-referenced with structural deviations** from th
 - **Excess (◎)** in the hips + **Lower-Dominant Organization** → "The lower body holds excess energy, suggesting a need for release."
 
 ---
-## **5. Safety and Compliance**
+## 5. Safety and Validation Rules
 
-- Avoid **speculating** on emotional or psychological causes of energetic states.
-- Use **neutral, descriptive language** (e.g., "The chest shows a blockage" vs. "Your emotions are blocked").
-- Always align with the **Master Document** and **Narrative & Persona Guidelines**.
+Energetic classifications must be validated against the following safety checks:
+
+1. **Cross‑Reference with Structural Data:** Ensure energetic states do not contradict structural observations without documented resolution.
+2. **Boundary Conditions:** Do not assign energetic states to regions with missing data.
+3. **Documentation:** Record any unresolved conflicts in the Integrated Analysis for therapist review.
+4. **Client Safety:** Never suggest movements that could exacerbate a known medical condition; refer to Safety Rules.md for forbidden language.
