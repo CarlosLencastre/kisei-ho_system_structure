@@ -19,7 +19,7 @@ This file is governed by the Master Document and must remain aligned with:
 ## **2. Cross-References**
 This file integrates with:
 - **Integrated Analysis**: For structural, energetic, and axis findings (see *KISEI-HŌ - Integrated Analysis.md*).
-- **Exercise Program**: For movement orientations (see *KISEI-HŌ - Exercise Program.md*).
+- **Exercise Plan**: For movement orientations (see *KISEI-HŌ - Exercise Plan.md*).
 - **Narrative & Persona Guidelines**: For tone and language (see *KISEI-HŌ - Narrative & Persona Guidelines.md*).
 
 ---
@@ -78,13 +78,6 @@ The Therapeutic Plan must remain aligned with:
 - Exercise Library
 
 No orientation may contradict these files.
-
----
-## **2. Cross-References**
-This file integrates with:
-- **Integrated Analysis**: For structural, energetic, and axis findings (see *KISEI-HŌ - Integrated Analysis.md*).
-- **Exercise Program**: For movement orientations (see *KISEI-HŌ - Exercise Program.md*).
-- **Narrative & Persona Guidelines**: For tone and language (see *KISEI-HŌ - Narrative & Persona Guidelines.md*).
 
 ---
 # 6. Final Principle
