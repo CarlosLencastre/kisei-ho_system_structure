@@ -6,6 +6,7 @@
 **Status:** Active
 
 This document maps the dependency relationships between all KISEI-HŌ system files. It ensures structural coherence and clarifies how each file interacts with the others.
+This file provides a visual and textual dependency map of all KISEI-HŌ system files
 
 This file does not contain clinical content and does not participate in client-facing outputs.
 
