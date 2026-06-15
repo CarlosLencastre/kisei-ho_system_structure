@@ -74,7 +74,7 @@ Energetic intentions include:
 ---
 ## 5. Energetic Alignment Validation
 
-Ensure exercises align with the client’s energetic state (see Energetic Framework.md).
+Ensure exercises align with the patient’s energetic state (see Energetic Framework.md).
 
 ### Energetic-Exercise Mapping
 
@@ -87,8 +87,8 @@ Ensure exercises align with the client’s energetic state (see Energetic Framew
 
 ### Validation Rules
 
-1. **Cross-Reference:** Always check the Energetic Framework.md for the client’s current energetic state.
-2. **Avoid Mismatches:** Do not suggest movements that conflict with the energetic state (e.g., avoid Grounding for a client with Excess in the Root).
+1. **Cross-Reference:** Always check the Energetic Framework.md for the patient’s current energetic state.
+2. **Avoid Mismatches:** Do not suggest movements that conflict with the energetic state (e.g., avoid Grounding for a pacient with Excess in the Root).
 3. **Document:** Note any energetic-exercise alignments in the Integrated Analysis for therapist review.
 
 ---
@@ -1746,12 +1746,12 @@ This file must remain aligned with:
 
 The Integrated Exercise Library contains exercises that, although classified as **Dynamic** (blockage release) or **Therapeutic** (physical recovery), may have **identical or very similar execution** (e.g., gentle spinal mobilisations, breathing movements, pendulum motions).
 
-**It is not permitted to prescribe two exercises with the same execution simultaneously**, even if they belong to different categories. The clinician must choose **a single exercise per movement pattern**, prioritising the most appropriate approach for the client’s goal:
+**It is not permitted to prescribe two exercises with the same execution simultaneously**, even if they belong to different categories. The clinician must choose **a single exercise per movement pattern**, prioritising the most appropriate approach for the patient’s goal:
 
 - If the focus is **energetic/emotional release** → choose the exercise from **Part I (Dynamic)**.
 - If the focus is **structural/muscular recovery** → choose the exercise from **Part II (Therapeutic)**.
 
-Duplicating movements creates prescription overload, client confusion, and risk of unnecessary fatigue. In case of doubt about equivalence between two exercises, the professional must verify the **step‑by‑step execution** (starting position, amplitude, rhythm, breathing) and not only the name or objective.
+Duplicating movements creates prescription overload, patient confusion, and risk of unnecessary fatigue. In case of doubt about equivalence between two exercises, the professional must verify the **step‑by‑step execution** (starting position, amplitude, rhythm, breathing) and not only the name or objective.
 
 *This rule applies to all home exercise plans and must be observed during automated or manual selection.*
 
