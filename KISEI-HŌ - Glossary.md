@@ -17,13 +17,6 @@ This file is governed by the Master Document and must remain aligned with:
 - Templates
 
 ---
-## 📚 Term Change Log
-Track all updates to terms for transparency and consistency.
-| Date | Term | Previous Definition | New Definition | Files Updated | Notes |
-|------|------|---------------------|----------------|---------------|-------|
-| *(Leave empty until actual changes are made)* | | | | | |
-
----
 ## 📖 Structural Terms
 | Term | Definition | Example | Cross-Reference |
 |------|------------|---------|----------------|
