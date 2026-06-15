@@ -1,7 +1,7 @@
 # KISEI-HŌ — Exercise Plan
 *System Matrix & Protocol*
 
-This document establishes the official architectural framework, linguistic boundaries, and generation protocols for the KISEI-HŌ Exercise Plan. It translates clinical assessment data into a non-prescriptive, sensory-driven movement orientation, acting as a bridge between structural and energetic observation and the client’s internal somatic experience.
+This document establishes the official architectural framework, linguistic boundaries, and generation protocols for the KISEI-HŌ Exercise Plan. It translates clinical assessment data into a non-prescriptive, sensory-driven movement orientation, acting as a bridge between structural and energetic observation and the patient’s internal somatic experience.
 
 This file is governed by the Master Document and must remain aligned with:
 - Integrated Exercise Library
@@ -53,11 +53,11 @@ The Exercise Plan uses the following categories from the Integrated Exercise Lib
 
 The Exercise Plan must:
 - Be non-prescriptive and non-corrective.
-- Align with the client’s energetic and structural state.
+- Align with the patient’s energetic and structural state.
 - Use conditional language (e.g., "It may be helpful to explore...").
 - Avoid techniques, repetitions, or performance framing.
 
 ---
 ## 5. Movement Selection Logic
 
-For detailed rules on how to select movement categories based on structural patterns (upper‑dominant, lower‑dominant, balanced, protective, compensatory), refer to `KISEI-HŌ - Unified Prescription Rules.md` (Section 3). The selection must always respect the client’s energetic state as defined in the Energetic Framework and must never be prescriptive.
+For detailed rules on how to select movement categories based on structural patterns (upper‑dominant, lower‑dominant, balanced, protective, compensatory), refer to `KISEI-HŌ - Unified Prescription Rules.md` (Section 3). The selection must always respect the patient’s energetic state as defined in the Energetic Framework and must never be prescriptive.
