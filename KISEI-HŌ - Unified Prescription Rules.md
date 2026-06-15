@@ -60,7 +60,20 @@ Movement orientation must follow these principles:
 ---
 ## 3. Structural Logic for Movement Selection
 
-Movement qualities must follow the do
+Movement qualities must follow the dominant structural pattern identified in the PHYSIOCODE analysis.
+
+| Structural Pattern | Recommended Movement Categories | Example Narrative |
+|--------------------|--------------------------------|-------------------|
+| Upper‑dominant organization | Softening, Lengthening, Gentle expansion | “Your body may explore movements that soften the upper region.” |
+| Lower‑dominant organization | Grounding, Centring, Stabilising | “Your body may explore movements that support grounding in the lower body.” |
+| Balanced organization | Gentle mobility, Breathing‑based, Slow rhythmic movement | “Your body may explore movements that maintain its natural balance.” |
+| Protective patterns (Effort/Protection) | Softening, Gentle compression | “Your body may explore softening movements where tension is held.” |
+| Compensatory patterns (Compensation/Adaptation) | Stabilising, Lengthening | “Your body may explore stabilising movements to support redistribution.” |
+
+**Selection Rules:**
+- If the client shows mixed patterns, prioritise the most restrictive or dominant region.
+- When structural data is incomplete, default to “Gentle mobility” and flag for therapist review.
+- Always cross‑reference with Energetic Framework.md to avoid mismatches.
 
 ---
 ## 4. Cross-References
