@@ -1,5 +1,7 @@
 # KISEI-HŌ — Master Document
 (Master File — Official Version)
+**Version:** 1.0
+**Date:** June 2026
 
 The Master Document defines the identity, architecture, narrative rules, and operational coherence of the entire KISEI-HŌ system.
 All other files must remain aligned with this document.
