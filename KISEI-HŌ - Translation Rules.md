@@ -9,7 +9,6 @@ This file is governed by the Master Document and must remain aligned with:
 - Structural & Energetic Tables
 - Energetic Framework
 - Narrative & Persona Guidelines
-- Translation Rules
 - Unified Prescription Rules
 - Workflow Rules
 - Safety Rules
