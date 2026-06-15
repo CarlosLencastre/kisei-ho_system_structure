@@ -92,12 +92,6 @@ This file is governed by the Master Document and integrates:
 - All depend on: PHYSIOCODE, Translation Rules, Templates
 
 ---
-## 📅 Change Log
- | Date | Change | Files Affected | Notes |
- |------|--------|----------------|-------|
- | *(To be populated with actual changes)* | | | |
-
----
 ## 📌 How to Use This File
 1. For AI: Use `library_fetch` with the `document_id` to access files.
 2. For Therapists: Use this as a reference for system navigation.
