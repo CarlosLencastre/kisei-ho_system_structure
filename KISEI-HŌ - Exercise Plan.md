@@ -56,3 +56,8 @@ The Exercise Plan must:
 - Align with the client’s energetic and structural state.
 - Use conditional language (e.g., "It may be helpful to explore...").
 - Avoid techniques, repetitions, or performance framing.
+
+---
+## 5. Movement Selection Logic
+
+For detailed rules on how to select movement categories based on structural patterns (upper‑dominant, lower‑dominant, balanced, protective, compensatory), refer to `KISEI-HŌ - Unified Prescription Rules.md` (Section 3). The selection must always respect the client’s energetic state as defined in the Energetic Framework and must never be prescriptive.
