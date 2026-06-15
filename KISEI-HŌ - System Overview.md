@@ -14,52 +14,53 @@ This file is governed by the Master Document and integrates:
 ## 📚 Complete File List by Category
 
 ### 1. Master
-   File | document_id | Purpose | Dependencies |
- |------|-------------|---------|--------------|
- | KISEI-HŌ - Master Document.md | *(Use Library call)* | Governs the entire system. | None |
+| File | document_id | Purpose | Dependencies |
+|------|-------------|---------|--------------|
+| KISEI-HŌ - Master Document.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Master%20Document.md` | Governs the entire system. | None |
 
 ### 2. Foundation
- | File | document_id | Purpose | Dependencies |
- |------|-------------|---------|--------------|
- | KISEI-HŌ - Narrative & Persona Guidelines.md | *(Use Library call)* | Defines persona, tone, and body reading criteria. | Master Document |
- | KISEI-HŌ - Glossary.md | *(Use Library call)* | Central repository for terms. | Master Document |
+| File | document_id | Purpose | Dependencies |
+|------|-------------|---------|--------------|
+| KISEI-HŌ - Narrative & Persona Guidelines.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Narrative%20%26%20Persona%20Guidelines.md` | Defines persona, tone, and body reading criteria. | Master Document |
+| KISEI-HŌ - Glossary.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Glossary.md` | Central repository for terms. | Master Document |
 
 ### 3. Clinical Architecture
- | File | document_id | Purpose | Dependencies |
- |------|-------------|---------|--------------|
- | KISEI-HŌ - PHYSIOCODE - Data Extraction & Classification.md | *(Use Library call)* | Data intake and structural/energetic classification. | Master Document, Structural & Energetic Tables |
- | KISEI-HŌ - PHYSIOCODE - Pattern Integration.md | *(Use Library call)* | Global pattern identification. | Master Document, Energetic Framework |
- | KISEI-HŌ - PHYSIOCODE - Therapeutic Orientation.md | *(Use Library call)* | Movement qualities and suggestions. | Master Document, Unified Prescription Rules |
- | KISEI-HŌ - Structural & Energetic Tables.md | *(Use Library call)* | Classifies structural deviations and energetic states. | Master Document |
- | KISEI-HŌ - Energetic Framework.md | *(Use Library call)* | Defines energetic states, global patterns, and regional application. | Master Document |
- | KISEI-HŌ - Workflow Rules.md | *(Use Library call)* | Mandatory 8-step pipeline. | Master Document |
- | KISEI-HŌ - Safety Rules.md | *(Use Library call)* | Forbidden language and tone constraints. | Master Document |
+| File | document_id | Purpose | Dependencies |
+|------|-------------|---------|--------------|
+| KISEI-HŌ - PHYSIOCODE - Data Extraction & Classification.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20PHYSIOCODE%20-%20Data%20Extraction%20%26%20Classification.md` | Data intake and structural/energetic classification. | Master Document, Structural & Energetic Tables |
+| KISEI-HŌ - PHYSIOCODE - Pattern Integration.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20PHYSIOCODE%20-%20Pattern%20Integration.md` | Global pattern identification. | Master Document, Energetic Framework |
+| KISEI-HŌ - PHYSIOCODE - Therapeutic Orientation.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20PHYSIOCODE%20-%20Therapeutic%20Orientation.md` | Movement qualities and suggestions. | Master Document, Unified Prescription Rules |
+| KISEI-HŌ - Structural & Energetic Tables.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Structural%20%26%20Energetic%20Tables.md` | Classifies structural deviations and energetic states. | Master Document |
+| KISEI-HŌ - Energetic Framework.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Energetic%20Framework.md` | Defines energetic states, global patterns, and regional application. | Master Document |
+| KISEI-HŌ - Workflow Rules.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Workflow%20Rules.md` | Mandatory 8-step pipeline. | Master Document |
+| KISEI-HŌ - Safety Rules.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Safety%20Rules.md` | Forbidden language and tone constraints. | Master Document |
 
 ### 4. Interpretation
- | File | document_id | Purpose | Dependencies |
- |------|-------------|---------|--------------|
- | KISEI-HŌ - Translation Rules.md | *(Use Library call)* | 3-stage pipeline for narrative translation. | Master Document, PHYSIOCODE |
- | KISEI-HŌ - Integrated Analysis.md | *(Use Library call)* | Unifies structural, energetic, and axis findings. | Master Document, PHYSIOCODE |
+| File | document_id | Purpose | Dependencies |
+|------|-------------|---------|--------------|
+| KISEI-HŌ - Translation Rules.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Translation%20Rules.md` | 3-stage pipeline for narrative translation. | Master Document, PHYSIOCODE |
+| KISEI-HŌ - Integrated Analysis.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Integrated%20Analysis.md` | Unifies structural, energetic, and axis findings. | Master Document, PHYSIOCODE |
 
 ### 5. Output Templates
- | File | document_id | Purpose | Dependencies |
- |------|-------------|---------|--------------|
- | KISEI-HŌ - Integrated Analysis.md | *(Use Library call)* | Master output: structural/energetic/axis synthesis. | Master Document, PHYSIOCODE |
- | KISEI-HŌ - Therapeutic Plan.md | *(Use Library call)* | Client-facing therapeutic direction. | Master Document, Integrated Analysis |
- | KISEI-HŌ - Exercise Plan.md | *(Use Library call)* | Non-prescriptive movement framework. | Master Document, Integrated Analysis |
- | KISEI-HŌ - Therapist Session Guide.md | *(Use Library call)* | 6-phase session structure. | Master Document, Workflow Rules |
+| File | document_id | Purpose | Dependencies |
+|------|-------------|---------|--------------|
+| KISEI-HŌ - Integrated Analysis.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Integrated%20Analysis.md` | Master output: structural/energetic/axis synthesis. | Master Document, PHYSIOCODE |
+| KISEI-HŌ - Therapeutic Plan.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Therapeutic%20Plan.md` | Client-facing therapeutic direction. | Master Document, Integrated Analysis |
+| KISEI-HŌ - Exercise Plan.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Exercise%20Plan.md` | Non-prescriptive movement framework. | Master Document, Integrated Analysis |
+| KISEI-HŌ - Therapist Session Guide.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Therapist%20Session%20Guide.md` | 6-phase session structure. | Master Document, Workflow Rules |
 
 ### 6. Library/Support
- | File | document_id | Purpose | Dependencies |
- |------|-------------|---------|--------------|
- | KISEI-HŌ - Integrated Exercise Library.md | *(Use Library call)* | Movement categories and energetic alignment. | Master Document, Energetic Framework |
- | KISEI-HŌ - Templates.md | *(Use Library call)* | Standardized output structures. | Master Document |
- | KISEI-HŌ - Unified Prescription Rules.md | *(Use Library call)* | Movement orientation logic. | Master Document, Integrated Exercise Library |
+| File | document_id | Purpose | Dependencies |
+|------|-------------|---------|--------------|
+| KISEI-HŌ - Integrated Exercise Library.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Integrated%20Exercise%20Library.md` | Movement categories and energetic alignment. | Master Document, Energetic Framework |
+| KISEI-HŌ - Templates.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Templates.md` | Standardized output structures. | Master Document |
+| KISEI-HŌ - Unified Prescription Rules.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Unified%20Prescription%20Rules.md` | Movement orientation logic. | Master Document, Integrated Exercise Library |
 
 ### 7. Output System
- | File | document_id | Purpose | Dependencies |
- |------|-------------|---------|--------------|
- | KISEI-HŌ - Output Generator.md | *(Use Library call)* | Automates narrative generation. | Master Document, PHYSIOCODE, Translation Rules |
+| File | document_id | Purpose | Dependencies |
+|------|-------------|---------|--------------|
+| KISEI-HŌ - Output Generator.md | `https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Output%20Generator.md` | Automates narrative generation. | Master Document, PHYSIOCODE, Translation Rules |
+
 
 ---
 ## 🗺️ Dependency Diagram
