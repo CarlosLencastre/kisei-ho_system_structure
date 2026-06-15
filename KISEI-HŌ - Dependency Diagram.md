@@ -1,9 +1,11 @@
 # KISEI-HŌ — Dependency Diagram
 *Support File — Official Version*
 
-This document maps the dependency relationships between all KISEI-HŌ system files. It ensures structural coherence and clarifies how each file interacts with the others.
+**Governed by:** KISEI-HŌ - Master Document.md
+**Version:** 1.0
+**Status:** Active
 
-**Note**: This file will be merged into System Overview.md in Phase 8. See below for current structure.
+This document maps the dependency relationships between all KISEI-HŌ system files. It ensures structural coherence and clarifies how each file interacts with the others.
 
 This file does not contain clinical content and does not participate in client-facing outputs.
 
