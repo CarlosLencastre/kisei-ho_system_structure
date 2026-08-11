@@ -1,113 +1,130 @@
-# KISEI-HŌ - Integrated Exercise Library
-
+# KISEI‑HŌ — Integrated Exercise Library  
 *(Therapist File — Official Version)*
 
-The Exercise Library defines the categories of movement used in the KISEI-HŌ method.
-It does not contain techniques, instructions or demonstrations.
-It provides conceptual categories used to support therapeutic orientation.
+The Integrated Exercise Library defines the official movement categories used in the KISEI‑HŌ method.  
+It does **not** contain techniques, instructions or demonstrations.  
+It provides **conceptual categories** that support conditional, non‑corrective therapeutic orientation.
 
 This file is governed by the Master Document and must remain aligned with:
-- Unified Prescription Rules
-- PHYSIOCODE Clinical Architecture
-- Structural & Energetic Tables
-- Energetic Framework
-- Narrative & Persona Guidelines
-- Translation Rules
-- Workflow Rules
-- Safety Rules
-- Templates
-- Glossary
+- Unified Prescription Rules  
+- PHYSIOCODE Clinical Architecture  
+- Structural & Energetic Tables  
+- Energetic Framework  
+- Narrative & Persona Guidelines  
+- Translation Rules  
+- Workflow Rules  
+- Safety Rules  
+- Templates  
+- Glossary  
 
 ---
+
 ## 1. Purpose of the Exercise Library
 
 The Exercise Library exists to:
-- classify movement categories
-- support conditional therapeutic orientation
-- maintain non-prescriptive, non-corrective language
-- ensure coherence with the Unified Prescription Rules
+- classify movement categories  
+- support conditional therapeutic orientation  
+- maintain non‑prescriptive, non‑corrective language  
+- ensure coherence with the Unified Prescription Rules  
 
-It does not provide instructions or techniques.
+It does **not** provide instructions or techniques.
 
 ---
+
 ## 2. Exercise Categories
 
-The official categories are:
-- grounding movements
-- centring movements
-- softening movements
-- stabilising movements
-- lengthening movements
-- breathing-based movements
-- gentle mobility
-- gentle expansion
-- gentle compression
-- slow rhythmic movement
+The official movement categories are:
 
-These categories describe qualities, not techniques.
+- grounding movements  
+- centring movements  
+- softening movements  
+- stabilising movements  
+- lengthening movements  
+- breathing‑based movements  
+- gentle mobility  
+- gentle expansion  
+- gentle compression  
+- slow rhythmic movement  
+
+These categories describe **qualities**, not techniques.
 
 ---
+
 ## 3. Structural Intention Categories
 
 Structural intentions include:
-- increasing presence in the base
-- reducing upper effort
-- supporting midline coherence
-- redistributing load
-- encouraging balanced engagement
-- supporting natural organisation
+
+- increasing presence in the base  
+- reducing upper effort  
+- supporting midline coherence  
+- redistributing load  
+- encouraging balanced engagement  
+- supporting natural organisation  
 
 These intentions must remain descriptive and neutral.
 
 ---
+
 ## 4. Energetic Intention Categories
 
 Energetic intentions include:
-- supporting flow
-- reducing stagnation
-- softening accumulation
-- reinforcing fragility
-- containing dispersion
-- grounding ascending tendencies
-- lifting descending tendencies
+
+- supporting flow  
+- reducing stagnation  
+- softening accumulation  
+- reinforcing fragility  
+- containing dispersion  
+- grounding ascending tendencies  
+- lifting descending tendencies  
 
 ---
+
 ## 5. Energetic Alignment Validation
 
-Ensure exercises align with the patient’s energetic state (see Energetic Framework.md).
+Movement categories must align with the patient’s energetic state (see *Energetic Framework.md*).
 
-### Energetic-Exercise Mapping
+### Energetic–Exercise Mapping
 
 | Energetic State | Recommended Movement Categories | Example Narrative |
-|----------------|--------------------------------|-------------------|
-| Normal Flow (→) | Grounding, Centring, Gentle Mobility | "Your body may benefit from movements that support its natural flow." |
-| Blockage (⨂) | Softening, Breathing-Based, Gentle Expansion | "Your body shows a tendency to hold tension; gentle softening movements may help." |
-| Excess (◎) | Stabilising, Lengthening, Gentle Compression | "Your body holds excess energy; stabilising movements may support balance." |
-| Deficiency (⊖) | Grounding, Centring, Gentle Expansion | "Your body may explore grounding to support its energetic state." |
+|------------------|----------------------------------|-------------------|
+| Flow (→) | Grounding, Centring, Gentle Mobility | “Your body may benefit from movements that support its natural flow.” |
+| Blockage (⨂) | Softening, Breathing‑Based, Gentle Expansion | “Your body shows a tendency to hold tension; gentle softening movements may help.” |
+| Excess (◎) | Stabilising, Lengthening, Gentle Compression | “Your body holds excess energy; stabilising movements may support balance.” |
+| Deficiency (⊖) | Grounding, Centring, Gentle Expansion | “Your body may explore grounding to support its energetic state.” |
 
 ### Validation Rules
 
-1. **Cross-Reference:** Always check the Energetic Framework.md for the patient’s current energetic state.
-2. **Avoid Mismatches:** Do not suggest movements that conflict with the energetic state (e.g., avoid Grounding for a pacient with Excess in the Root).
-3. **Document:** Note any energetic-exercise alignments in the Integrated Analysis for therapist review.
+1. **Cross‑Reference:** Always check the Energetic Framework for the patient’s energetic state.  
+2. **Avoid Mismatches:** Do not suggest movements that conflict with the energetic state (e.g., avoid grounding for Root excess).  
+3. **Document:** Note energetic–exercise alignment in the Integrated Analysis for therapist review.  
 
 ---
+
 ## 6. Alignment with Other Files
 
 This file must remain aligned with:
-- Master Document (for governance)
-- Energetic Framework (for energetic logic)
-- Unified Prescription Rules (for movement orientation)
+- Master Document  
+- Energetic Framework  
+- Unified Prescription Rules  
 
 ---
 
 # PRESCRIPTION HIERARCHY (MANDATORY)
 
-1. **The Grounding Flow** (feet, ankles, lower limbs)
-2. **The Center of Gravity** (pelvis, sacrum, lumbar spine)
-3. **The Axis of Communication** (thoracic spine, shoulder girdle)
-4. **The Antenna of Consciousness** (cervical, skull)
-5. **Global Chains** (whole‑body integration – emotional/energetic)
+1. **The Grounding Flow**  
+   *feet, ankles, lower limbs*
+
+2. **The Center of Gravity**  
+   *pelvis, sacrum, lumbar spine*
+
+3. **The Axis of Communication**  
+   *thoracic spine, shoulder girdle*
+
+4. **The Antenna of Consciousness**  
+   *cervical region, skull*
+
+5. **Global Chains**  
+   *whole‑body integration — emotional/energetic*
 
 ---
 
@@ -1742,20 +1759,29 @@ This file must remain aligned with:
 
 ---
 
-## Prescription Rule – No Duplication of Movements
+## Prescription Rule — No Duplication of Movements
 
-The Integrated Exercise Library contains exercises that, although classified as **Dynamic** (blockage release) or **Therapeutic** (physical recovery), may have **identical or very similar execution** (e.g., gentle spinal mobilisations, breathing movements, pendulum motions).
+The Integrated Exercise Library contains exercises that may have **identical or very similar execution**, even when classified under different categories (Dynamic vs Therapeutic).
 
-**It is not permitted to prescribe two exercises with the same execution simultaneously**, even if they belong to different categories. The clinician must choose **a single exercise per movement pattern**, prioritising the most appropriate approach for the patient’s goal:
+**It is not permitted to prescribe two exercises with the same execution simultaneously**, even if they belong to different sections.
 
-- If the focus is **energetic/emotional release** → choose the exercise from **Part I (Dynamic)**.
-- If the focus is **structural/muscular recovery** → choose the exercise from **Part II (Therapeutic)**.
+The clinician must choose **one exercise per movement pattern**, prioritising the most appropriate approach:
 
-Duplicating movements creates prescription overload, patient confusion, and risk of unnecessary fatigue. In case of doubt about equivalence between two exercises, the professional must verify the **step‑by‑step execution** (starting position, amplitude, rhythm, breathing) and not only the name or objective.
+- **Energetic/emotional release** → choose from **Part I (Dynamic)**  
+- **Structural/muscular recovery** → choose from **Part II (Therapeutic)**  
 
-*This rule applies to all home exercise plans and must be observed during automated or manual selection.*
+Duplicating movements creates prescription overload, confusion and unnecessary fatigue.
+
+When in doubt, verify:
+- starting position  
+- amplitude  
+- rhythm  
+- breathing pattern  
+
+This rule applies to all home plans and automated/manual selection.
 
 ---
 
-*Movement is like water: it always finds the path of least resistance. These exercises are the channels through which it can flow again.*
-```
+## Final Principle
+
+> *Movement is like water: it always finds the path of least resistance. These exercises are the channels through which it can flow again.*

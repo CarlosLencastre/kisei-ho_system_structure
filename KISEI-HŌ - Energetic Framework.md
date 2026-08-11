@@ -1,75 +1,171 @@
-# KISEI-HŌ — Energetic Framework
+# KISEI‑HŌ — Energetic Framework  
 (Core File — Official Version)
 
-This file defines **all energetic states, symbols, and systemic interactions** within the KISEI-HŌ system. It combines the content of *Energetic Reading Criteria* and *Energetic Map Interpretation* to provide a unified reference for energetic logic.
+The Energetic Framework defines the classification, interpretation and functional behaviour of Ki flow within the KISEI‑HŌ method.  
+It provides the energetic logic used by the PHYSIOCODE Clinical Architecture, the Integrated Analysis, the Output Generator, the Therapist Session Guide and all narrative outputs.
 
-This file is governed by the **Master Document** and must remain aligned with:
-- PHYSIOCODE Clinical Architecture
-- Structural & Energetic Tables
-- Translation Rules
-- Narrative & Persona Guidelines
-- Glossary
-
----
-## **1. Energetic States & Symbols**
-*(From Energetic Reading Criteria)*
-
-The following states define the energetic condition of body regions:
-   **State** | **Symbol** | **Definition** | **Example** |
- |-----------|------------|---------------|-------------|
- | Normal Flow | → | Unobstructed movement of Ki (energy). | "Ki flows freely through the spine (→)." |
- | Blockage | ⨂ | Stagnation or interruption of Ki. | "A blockage (⨂) is present in the chest region." |
- | Excess | ◎ | Excessive accumulation of Ki in a region. | "The shoulders show excess (◎) energy." |
- | Deficiency | ⊖ | Lack or depletion of Ki in a region. | "The lower back exhibits deficiency (⊖) of energy." |
-
-**Note**: Use the descriptions in parentheses if symbols do not render correctly (e.g., "→" = Right Arrow).
+This file is governed by the Master Document and must remain aligned with:
+- Structural & Energetic Tables  
+- PHYSIOCODE Clinical Architecture  
+- Integrated Analysis  
+- Workflow Rules  
+- Narrative & Persona Guidelines  
+- Safety Rules  
+- KISEI‑HŌ — Postural Rehabilitation Rules  
+- KISEI‑HŌ — Template Postural Rehabilitation Plan  
 
 ---
-## **2. Global Patterns**
-*(From Energetic Map Interpretation)*
 
-Global patterns describe **systemic interactions** of energetic states across the body. These patterns emerge from the relationships between regions and their energetic states.
+## 1. Energetic Flow Principles
 
-### **How Energetic States Interact**
-- **Upper-Dominant Organization**: Upper regions (e.g., shoulders, head) take more work, often compensating for lower body limitations.
-- **Lower-Dominant Organization**: Lower regions (e.g., hips, knees) take more work, often grounding excessive upper body energy.
-- **Balanced Organization**: Effort is evenly distributed, with no dominant region.
+Ki flow is interpreted through three fundamental behaviours:
 
-### **Directionality**
-- **Flow (→)**: Ki moves freely from one region to another.
-- **Blockage (⨂)**: Ki is stagnant or interrupted in a region.
-- **Excess (◎)**: Ki accumulates in a region, creating tension or overflow.
-- **Deficiency (⊖)**: Ki is lacking in a region, leading to underactivity.
+| Behaviour | Definition | Notes |
+|----------|------------|-------|
+| Flow | Ki moves unobstructed through the axis | Indicates stability and adaptability |
+| Blockage | Ki stagnates or is interrupted | Indicates structural or emotional tension |
+| Excess | Ki accumulates beyond functional levels | Indicates overactivation or compensatory effort |
+| Deficiency | Ki is depleted or dispersed | Indicates collapse, fatigue or loss of grounding |
 
-### **Systemic Behavior**
-- **Compensation**: One region supports another (e.g., shoulders compensate for weak core).
-- **Protection**: A region guards against perceived instability (e.g., tension in the neck).
-- **Adaptation**: The body reorganizes effort in response to blockages or excesses.
+These behaviours are always interpreted in relation to the structural axis (Root → Centre → Firmament).
 
 ---
-## **3. Regional Application**
-*(From Energetic Reading Criteria)*
 
-Energetic states are applied to the following body regions:
-- **Head & Shoulders**: Often associated with mental effort and upper body tension.
-- **Spine & Pelvis**: Central axis for stability and movement.
-- **Knees & Ankles**: Foundation and grounding.
+## 2. Energetic Axis Model
 
-**Example**: "A blockage (⨂) in the Spine & Pelvis may indicate a need for grounding and stability."
+The energetic axis mirrors the structural axis and is divided into three functional layers:
 
----
-## **4. Integration with Structural Data**
+### Root (Enraizamento)
+Represents grounding, stability and lower-body energetic support.
 
-Energetic states must be **cross-referenced with structural deviations** from the *Structural & Energetic Tables*. For example:
-- A **Blockage (⨂)** in the shoulders + **Upper-Dominant Organization** → "The body distributes effort to the upper region, with tension in the shoulders."
-- **Excess (◎)** in the hips + **Lower-Dominant Organization** → "The lower body holds excess energy, suggesting a need for release."
+| State | Symbol | Interpretation |
+|-------|--------|----------------|
+| Flow | → | Stable grounding |
+| Blockage | ⨂ | Lower-body tension or collapse |
+| Excess | ◎ | Overactivation, defensive stance |
+| Deficiency | ⊖ | Weak grounding, instability |
 
 ---
-## 5. Safety and Validation Rules
 
-Energetic classifications must be validated against the following safety checks:
+### Centre (Hara)
+Represents internal pressure, emotional tone, respiratory expansion and core energetic organisation.
 
-1. **Cross‑Reference with Structural Data:** Ensure energetic states do not contradict structural observations without documented resolution.
-2. **Boundary Conditions:** Do not assign energetic states to regions with missing data.
-3. **Documentation:** Record any unresolved conflicts in the Integrated Analysis for therapist review.
-4. **Client Safety:** Never suggest movements that could exacerbate a known medical condition; refer to Safety Rules.md for forbidden language.
+| State | Symbol | Interpretation |
+|-------|--------|----------------|
+| Flow | → | Balanced internal pressure |
+| Blockage | ⨂ | Emotional tension, respiratory restriction |
+| Excess | ◎ | Overactivation, agitation, Jitsu |
+| Deficiency | ⊖ | Collapse, fatigue, Kyo |
+
+---
+
+### Firmament (Superior Axis)
+Represents upper-body expansion, cervical freedom and energetic projection.
+
+| State | Symbol | Interpretation |
+|-------|--------|----------------|
+| Flow | → | Clear projection and stable orientation |
+| Blockage | ⨂ | Cervical tension, sensory conflict |
+| Excess | ◎ | Overextension, hypervigilance |
+| Deficiency | ⊖ | Dissipation, weak projection |
+
+---
+
+## 3. Energetic Flow Score (EFS)
+
+The Energetic Flow Score is used by the PHYSIOCODE Clinical Architecture and the Postural Rehabilitation Rules to quantify energetic deviation.
+
+| Factor | Description | Weight |
+|--------|-------------|--------|
+| Hara | Internal pressure, abdominal tone | +2 |
+| Lymphatic Flow | Fluid movement, retention | +2 |
+| Thoracic Expansion | Rib mobility, breathing | +2 |
+| Diagonal Flow | Global energetic integration | +3 |
+| Global Energy | Ki/Qi stability | +2–3 |
+| Tissue Quality | Density, elasticity | +2 |
+
+**EFS is added directly to the Base Therapeutic Load (BTL).**
+
+---
+
+## 4. Energetic Patterns
+
+### Kyo (Deficiency)
+- Low tone  
+- Weak grounding  
+- Dissipated energy  
+- Reduced adaptability  
+
+### Jitsu (Excess)
+- High tone  
+- Overactivation  
+- Defensive pattern  
+- Agitation or tension  
+
+### Mixed Patterns
+Most real-world patterns present mixed states:
+- Kyo in Root + Jitsu in Centre  
+- Jitsu in Centre + Kyo in Firmament  
+- Kyo in Root + Kyo in Firmament  
+
+Mixed patterns must be interpreted through the Integrated Analysis.
+
+---
+
+## 5. Energetic–Structural Interaction
+
+Energetic states always influence structural behaviour:
+
+| Energetic State | Structural Effect |
+|------------------|------------------|
+| Root Kyo | Pelvic instability, reduced grounding |
+| Root Jitsu | Pelvic rigidity, defensive stance |
+| Hara Kyo | Weak core, reduced respiratory expansion |
+| Hara Jitsu | Thoracic tension, emotional overactivation |
+| Firmament Kyo | Weak cervical projection, sensory instability |
+| Firmament Jitsu | Cervical rigidity, hypervigilance |
+
+Energetic interpretation must never contradict structural data — it must **complete** it.
+
+---
+
+## 6. Conflict Resolution Rules
+
+When structural and energetic readings diverge:
+
+1. Prioritise energetic data  
+2. Validate axis behaviour (Root → Centre → Firmament)  
+3. Cross-reference with Structural & Energetic Tables  
+4. Document the conflict in the Integrated Analysis  
+5. Never speculate missing data  
+
+---
+
+## 7. Integration with Workflow
+
+Energetic Framework is used in:
+
+- PHYSIOCODE Pattern Integration  
+- Integrated Analysis  
+- Postural Rehabilitation Rules (BTL + EFS)  
+- Therapist Session Guide  
+- Output Generator (narrative consistency)  
+
+Energetic states determine:
+- therapy selection  
+- phase objectives  
+- session load  
+- narrative tone  
+- safety considerations  
+
+---
+
+## 8. Validation Checklist
+
+- All energetic states use official symbols  
+- Axis behaviour matches structural interpretation  
+- EFS is calculated according to official weights  
+- Mixed patterns are documented  
+- Conflicts resolved using Energetic–Structural rules  
+- No speculation in absence of data  
+
