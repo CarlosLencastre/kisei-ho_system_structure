@@ -124,10 +124,4 @@ Consistência e versionamento
 - README versão: 1.1 (agora reflecte o conjunto actual de ficheiros no root).
 - Nota: o repositório inclui ficheiros com hífens tipográficos diferentes (U+2011 vs U+002D). Use exactamente os URLs acima para evitar problemas de encoding.
 
-Como contribuir (curto)
-- Para incluir/retirar ficheiros do conjunto oficial, atualize este README e abra um PR descrevendo a mudança.
-
-Se quiser, posso:
-- (1) abrir um PR com esta alteração ou (2) enviar a patch aqui para revisão antes de commitar. Já comitei a atualização no README nesta execução.
-
 END OF README
