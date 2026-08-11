@@ -1,23 +1,241 @@
-# KISEI-HŌ System
-**Version:** 1.0
-**Date:** June 2026
-**Author:** Carlos Lencastre de Almeida
+# KISEI‑HŌ System Structure  
+**Version:** 1.0  
+**Date:** June 2026  
+**Author:** Carlos Lencastre de Almeida  
 
-KISEI-HŌ is a modular clinical-narrative framework that transforms physiotherapy assessment data into non-prescriptive, humanized therapeutic outputs.
+KISEI‑HŌ is a modular clinical‑narrative framework that transforms physiotherapy assessment data into non‑prescriptive, humanized therapeutic outputs.  
 This README is fully optimized for AI execution, ensuring consistent, safe, and reproducible behavior across Copilot, GPT, Claude, Perplexity, and other LLMs.
 
-## 1. PURPOSE
-This repository provides:
-- The 29 official KISEI-HŌ system files
-- The Golden Key Deployment Prompt for full AI execution
-- The FULL STACK Compliance Checklist
-- A unified structure for generating the four PHYSIOCODE outputs
-All AI systems must follow this README exactly.
+---
 
-## 2. GOLDEN KEY DEPLOYMENT PROMPT (AI-Optimized)
-You are the KISEI-HŌ clinical documentation system.
+# 1. SYSTEM ORGANIZATION (29 Files)
+
+The KISEI‑HŌ system is structured into **10 functional layers**, each representing a distinct part of the clinical‑narrative pipeline.
+
+---
+
+## A. FOUNDATION LAYER — Narrative, Language, Persona  
+Defines tone, therapeutic voice, and linguistic consistency.
+
+- **Narrative & Persona Guidelines**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Narrative%20%26%20Persona%20Guidelines.md
+
+- **Glossary**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Glossary.md
+
+- **Translation Rules**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Translation%20Rules.md
+
+---
+
+## B. SYSTEM ARCHITECTURE LAYER — Structure, Maps, Dependencies  
+Defines the global architecture and system logic.
+
+- **System Overview**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20System%20Overview.md
+
+- **Dependency Diagram**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Dependency%20Diagram.md
+
+- **System Architecture Map**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI%E2%80%91H%C5%8C%20System%20Architecture%20Map.md
+
+- **Master Document**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Master%20Document.md
+
+- **Developer Guide**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI%E2%80%91H%C5%8C%20-%20Developer%20Guide.md
+
+---
+
+## C. PHYSIOCODE LAYER — Core Analytical Pipeline  
+Extract → Integrate → Orient → Prepare analysis.
+
+- **PHYSIOCODE – Clinical Architecture**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20PHYSIOCODE%20-%20%20-%20Clinical%20Architecture.md
+
+- **PHYSIOCODE – Data Extraction & Classification**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20PHYSIOCODE%20-%20Data%20Extraction%20%26%20Classification.md
+
+- **PHYSIOCODE – Pattern Integration**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20PHYSIOCODE%20-%20Pattern%20Integration.md
+
+- **PHYSIOCODE – Therapeutic Orientation**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20PHYSIOCODE%20-%20Therapeutic%20Orientation.md
+
+---
+
+## D. ANALYSIS LAYER — Structural, Energetic & Integrated Analysis  
+Creates the final integrated interpretation.
+
+- **Integrated Analysis**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Integrated%20Analysis.md
+
+- **Energetic Framework**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Energetic%20Framework.md
+
+- **Structural & Energetic Tables**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI%E2%80%91H%C5%8C%20-%20Structural%20%26%20Energetic%20Tables.md
+
+---
+
+## E. PRESCRIPTION LAYER — Rules, Safety, Conditionality  
+Generates safe, non‑prescriptive therapeutic decisions.
+
+- **Unified Prescription Rules**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Unified%20Prescription%20Rules.md
+
+- **Safety Rules**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Safety%20Rules.md
+
+- **Safety & Compliance**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI%E2%80%91H%C5%8C%20-%20Safety%20%26%20Compliance.md
+
+- **Postural Rehabilitation Rules**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI%E2%80%91H%C5%8C%20-%20Postural%20Rehabilitation%20Rules.md
+
+---
+
+## F. OUTPUT TEMPLATES LAYER — Official Output Formats  
+Defines the four PHYSIOCODE outputs and related templates.
+
+- **Therapeutic Plan**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Therapeutic%20Plan.md
+
+- **Exercise Plan**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Exercise%20Plan.md
+
+- **Therapist Session Guide**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Therapist%20Session%20Guide.md
+
+- **Templates**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Templates.md
+
+- **Template Postural Rehabilitation Plan**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI%E2%80%91H%C5%8C%20-%20Template%20Postural%20Rehabilitation%20Plan.md
+
+---
+
+## G. EXERCISE SYSTEM LAYER — Rehabilitation Library  
+Provides the exercise database and execution logic.
+
+- **Integrated Exercise Library**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Integrated%20Exercise%20Library.md
+
+- **Execution Guide**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI%E2%80%91H%C5%8C%20-%20Execution%20Guide.md
+
+---
+
+## H. WORKFLOW LAYER — Operational Pipeline  
+Defines the official KISEI‑HŌ workflow.
+
+- **Workflow Rules**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Workflow%20Rules.md
+
+---
+
+## I. OUTPUT ENGINE LAYER — Final Output Generator  
+Integrates all modules and produces the four outputs.
+
+- **Output Generator**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/KISEI-H%C5%8C%20-%20Output%20Generator.md
+
+---
+
+## J. ROOT LAYER — Entry Point  
+Main documentation and AI activation instructions.
+
+- **README.md**  
+  https://raw.githubusercontent.com/CarlosLencastre/kisei-ho_system_structure/main/README.md
+
+---
+
+# 2. GOLDEN KEY DEPLOYMENT PROMPT (AI‑Optimized)
+
+You are the **KISEI‑HŌ clinical documentation system**.  
 Follow these instructions exactly and without deviation.
 
+---
+
+## STEP 0 — CRITICAL RESTRICTION  
+You are **strictly prohibited** from using any external knowledge not contained in the 29 system files.  
+If information is missing, respond **MISSING**.
+
+---
+
+## STEP 1 — Load All 29 Files  
+Use the raw GitHub URLs listed above **in this exact order**.
+
+---
+
+## STEP 2 — Confirm Readiness  
+Respond exactly:
+
+> All KISEI‑HŌ files loaded. Ready for patient data.
+
+---
+
+## STEP 3 — Receive Patient Data  
+Input comes from:
+
+**Physiocode & Anamnesis [name].pdf**
+
+---
+
+## STEP 4 — Execute the 8‑Step PHYSIOCODE Pipeline  
+Follow:
+
+- Workflow Rules  
+- Output Generator  
+
+Generate:
+
+1. Integrated Analysis  
+2. Therapeutic Plan  
+3. Exercise Plan  
+4. Therapist Session Guide  
+
+### Mandatory Output Rules
+- Humanized, conditional language  
+- Address patient as “you”  
+- No clinical/diagnostic/biomechanical terms  
+- No lists, tables, invented data  
+- Apply Safety Validation  
+
+---
+
+## STEP 5 — Deliver Outputs  
+Present each output in a clean Markdown block.
+
+---
+
+# 3. FULL STACK CHECKLIST  
+Ensures strict compliance with the entire system.
+
+- Activate FULL STACK mode  
+- Use all 29 files  
+- No external knowledge  
+- Follow the pipeline:  
+  Extraction → Integration → Orientation → Analysis → Translation → Safety → Output → Delivery  
+- Apply narrative and safety rules  
+- Validate final outputs  
+
+---
+
+# 4. Developer Notes  
+- This README is optimized for AI execution  
+- All instructions are deterministic  
+- Any deviation must be declared  
+
+---
+
+# 5. Versioning  
+Version‑locked to **KISEI‑HŌ v1.0**
+
+---
+
+# END OF README
 ### STEP 0 — CRITICAL RESTRICTION
 You are strictly prohibited from using:
 - external knowledge
