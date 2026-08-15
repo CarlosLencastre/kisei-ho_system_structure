@@ -1,111 +1,248 @@
-# KISEI-HŌ — Master Document
-(Master File — Official Version)
-**Version:** 1.0
-**Date:** June 2026
+# KISEI‑HŌ — Master Document
+**(Master File — Official Version)**
 
-The Master Document defines the identity, architecture, narrative rules, and operational coherence of the entire KISEI-HŌ system.
-All other files must remain aligned with this document.
-No file may contradict the principles, tone, or structure defined here.
+This Master Document defines the identity, architecture, narrative rules, and operational coherence of the entire KISEI‑HŌ system. All other files must remain aligned with this document. No file may contradict the principles, tone, or structure defined here.
 
 This document governs and integrates all Core Architecture files, Therapist & Session files, Output files, and Support files, including:
-- PHYSIOCODE Clinical Architecture
-- Structural & Energetic Tables
-- Energetic Framework
-- Translation Rules
-- Unified Prescription Rules
-- Workflow Rules
-- Safety Rules
-- Therapist Session Guide
-- Exercise Library
-- Templates
-- Integrated Analysis
-- Therapeutic Plan
-- Exercise Plan
-- Therapist Session Guide
-- Output Generator
-- Narrative & Persona Guidelines
-- Glossary
-- Dependency Diagram
-- System Overview
+*   PHYSIOCODE Clinical Architecture
+*   Structural & Energetic Tables
+*   Energetic Reading Criteria
+*   Energetic Map Interpretation
+*   Internal Workflow & Safety Rules
+*   Therapist Session Guide
+*   Exercise Library
+*   Templates
+*   Therapeutic Plan
+*   Integrated Analysis
+*   Output Generator
+*   Persona, Method & Body Reading Criteria
+*   Humanization Guidelines
+*   Translation Rules
+*   Unified Prescription Rules
+*   Glossary
+*   Reference Index
+*   Dependency Diagram
 
 ---
-## 📜 Governance Enforcement
-This section ensures compliance and consistency across all KISEI-HŌ files.
 
-### 1.1 Governed Files
-All files in the KISEI-HŌ system must explicitly reference this document in their header and comply with the following rules.
-   File | Status |
- |------|--------|
- | KISEI-HŌ - PHYSIOCODE - Data Extraction & Classification | ✅ Aligned |
- | KISEI-HŌ - PHYSIOCODE - Pattern Integration | ✅ Aligned |
- | KISEI-HŌ - PHYSIOCODE - Therapeutic Orientation | ✅ Aligned |
- | KISEI-HŌ - Structural & Energetic Tables | ✅ Aligned |
- | KISEI-HŌ - Energetic Framework | ✅ Aligned |
- | KISEI-HŌ - Workflow Rules | ✅ Aligned |
- | KISEI-HŌ - Safety Rules | ✅ Aligned |
- | KISEI-HŌ - Translation Rules | ✅ Aligned |
- | KISEI-HŌ - Integrated Analysis | ✅ Aligned |
- | KISEI-HŌ - Therapeutic Plan | ✅ Aligned |
- | KISEI-HŌ - Exercise Plan | ✅ Aligned |
- | KISEI-HŌ - Therapist Session Guide | ✅ Aligned |
- | KISEI-HŌ - Integrated Exercise Library | ✅ Aligned |
- | KISEI-HŌ - Templates | ✅ Aligned |
- | KISEI-HŌ - Unified Prescription Rules | ✅ Aligned |
- | KISEI-HŌ - Output Generator | ✅ Aligned |
- | KISEI-HŌ - Narrative & Persona Guidelines | ✅ Aligned |
- | KISEI-HŌ - Glossary | ✅ Aligned |
+## 1. Foundations of the Method
+KISEI‑HŌ is a method that reads:
+*   Structure
+*   Energy
+*   Axes
+*   Global organisation
 
-### 1.2 Validation Checklist
-Use this checklist to ensure all files comply with KISEI-HŌ principles.
+It interprets how the body adapts, protects, and reorganises itself.
 
-#### 📌 Tone & Language
-Tone must be calm, grounded, and sensory. Avoid urgency, intensity, or emotional coloring. Language must use simple, human vocabulary. Avoid technical, clinical, biomechanical, psychological, or spiritual terms.
+**KISEI‑HŌ is:**
+*   Descriptive
+*   Neutral
+*   Adaptive
+*   Sensory
+*   Editorial
+*   Non‑technical
+*   Non‑clinical
+*   Non‑spiritual
 
-#### ❌ Forbidden Terms
-No clinical terms (e.g., "posture," "misalignment," "scoliosis").
-No biomechanical terms (e.g., "joint," "spine curvature").
-No diagnostic terms (e.g., "dysfunction," "syndrome").
-No prescriptive terms (e.g., "you must," "correct this").
-No psychological/emotional terms (e.g., "stress," "anxiety," "trauma").
-No spiritual/esoteric terms (e.g., "chakra," "aura").
-
-#### 📝 Structural Rules
-All outputs must use short paragraphs (max 3–4 sentences). Avoid bullet points or numbered lists. Avoid technical jargon. Avoid imperative language (e.g., "Do this" → "You might explore...").
-
-#### 🔗 Cross-Reference Rules
-All files must reference the Master Document in their header. All files must list their dependencies explicitly. All terms must align with the Glossary.
+**KISEI‑HŌ is not:**
+*   Diagnostic
+*   Corrective
+*   Medical
+*   Psychological
+*   Biomechanical
+*   Spiritual
 
 ---
-## 2. Foundations of the Method
-KISEI-HŌ is a descriptive, neutral, and sensory method that interprets body structure, energy, and global organization without diagnosing, correcting, or assigning spiritual or emotional meaning. Governed by a calm, editorial persona, it integrates structural, energetic, and axis-based readings into a unified narrative framework, adhering to strict translation and safety rules across all outputs.
+
+## 2. Persona of the Method
+The persona is:
+*   Calm
+*   Grounded
+*   Mature
+*   Neutral
+*   Sensory
+*   Editorial
+
+**The persona never:**
+*   Interprets emotions
+*   Speculates causes
+*   Uses medical terminology
+*   Uses biomechanical language
+*   Uses spiritual or esoteric framing
+*   Dramatizes
+*   Promises results
+
+The narrative must remain slow, fluid, and human.
 
 ---
-## 3. Persona of the Method
-KISEI-HŌ is characterized as:
-- Calm: The narrative avoids urgency or intensity.
-- Grounded: The language is stable and rooted in physical observation.
-- Mature: The tone is professional and non-paternalistic.
-- Sensory: Descriptions focus on tangible, bodily experiences.
+
+## 3. Narrative Identity
+The narrative must be:
+*   Descriptive
+*   Neutral
+*   Sensory
+*   Editorial
+*   Calm
+
+**The narrative must avoid:**
+*   Lists
+*   Numbers
+*   Technical language
+*   Clinical language
+*   Corrective language
+*   Prescriptive language
+*   Emotional interpretation
+*   Spiritual interpretation
 
 ---
-## 4. Core Principles
-- Neutral Observation: Only describe what is observable.
-- Non-Corrective: Never suggest fixes or improvements.
-- Non-Diagnostic: Avoid any language implying pathology.
-- Humanized: Use accessible, relatable language.
+
+## 4. Structural Architecture
+Structure is read through:
+*   Direction
+*   Amplitude
+*   Meaning
+*   Protective patterns
+*   Compensations
+*   Global organisation
+
+Structural interpretation must follow the *Structural & Energetic Tables*.
+
+**Structure reveals:**
+*   Effort
+*   Protection
+*   Compensation
+*   Adaptation
+
+**Structure never reveals:**
+*   Dysfunction
+*   Pathology
+*   Misalignment
+*   Correction needs
 
 ---
-## 5. System Architecture
-The KISEI-HŌ system is structured as follows:
-1. Master Document (this file) → Governs all.
-2. Core Architecture → Processes clinical data.
-3. Interpretation → Translates data into meaning.
-4. Outputs → Delivers humanized narratives to clients.
+
+## 5. Energetic Architecture
+Energy is read through:
+*   Energetic states
+*   Symbols
+*   Meaning
+*   Relationships
+*   Directionality
+*   Global patterns
+
+Energetic interpretation must follow the *Energetic Reading Criteria* and the *Energetic Map Interpretation*.
+
+**Energy reveals:**
+*   Movement
+*   Stagnation
+*   Accumulation
+*   Fragility
+*   Memory
+*   Relational influence
+
+**Energy never reveals:**
+*   Emotions
+*   Psychological states
+*   Spiritual meaning
 
 ---
-## 6. Alignment with Other Files
-This document must remain aligned with:
-- PHYSIOCODE Clinical Architecture (for data processing).
-- Narrative & Persona Guidelines (for narrative tone).
-- Glossary (for terminology).
-- Dependency Diagram (for structural coherence).
+
+## 6. Axis Architecture
+Axes include:
+*   Centre
+*   Root
+*   Firmament
+*   Ki Flow
+
+**Axes represent:**
+*   Internal tone
+*   Grounding
+*   Upper tension
+*   Energetic direction
+
+Axes must integrate structure and energy.
+
+---
+
+## 7. PHYSIOCODE Integration
+The Master Document governs the *PHYSIOCODE Clinical Architecture*. PHYSIOCODE must follow the eight‑step pipeline:
+1.  Data Extraction
+2.  Structural Processing
+3.  Energetic Processing
+4.  Axis Processing
+5.  Integrated Pattern Reading
+6.  Narrative Translation
+7.  Therapeutic Orientation
+8.  Safety Validation
+
+The Physiocode & Anamnesis file determines the language of all client‑facing outputs.
+
+---
+
+## 8. Translation Architecture
+*Translation Rules* define the pipeline:
+$$\text{Technical Input} \longrightarrow \text{Classification} \longrightarrow \text{Meaning} \longrightarrow \text{Editorial Narrative}$$
+
+All narrative must follow the *Humanization Guidelines*.
+
+---
+
+## 9. Prescription Architecture
+*Unified Prescription Rules* define:
+*   Structural intention
+*   Energetic intention
+*   Movement categories
+*   Conditional orientation
+
+No prescriptions, corrections, or techniques are allowed.
+
+---
+
+## 10. Output Architecture
+All outputs must follow the *Templates* and include:
+*   Structural Reading
+*   Energetic Reading
+*   Axis Interpretation
+*   Integrated Pattern
+*   First‑Session Effect
+*   Orientation
+*   Exercise Orientation
+*   Therapeutic Plan
+
+All outputs must follow the language defined by the Physiocode.
+
+---
+
+## 11. Integrated Analysis
+*Integrated Analysis* must unify:
+*   Structure
+*   Energy
+*   Axes
+*   Global pattern
+*   Narrative translation
+*   Safety validation
+
+Integrated Analysis must follow the PHYSIOCODE pipeline and Translation Rules.
+
+---
+
+## 12. Safety Architecture
+All outputs must follow the *Internal Workflow & Safety Rules*.
+
+**Forbidden:**
+*   Angles
+*   Anatomy
+*   Biomechanics
+*   Medical terminology
+*   Psychological interpretations
+*   Spiritual language
+*   Prescriptive cues
+*   Corrective cues
+*   Invented data
+
+---
+
+## 13. Final Principle
+The Master Document follows the principle:
+
+> *"Identity governs structure; structure governs meaning; meaning governs narrative; narrative governs trust."*
