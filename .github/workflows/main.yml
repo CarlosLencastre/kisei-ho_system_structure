@@ -1,0 +1,36 @@
+# Delete all markdown files except the three you want to keep
+git rm "KISEI-HŌ - Dependency Diagram.md"
+git rm "KISEI-HŌ - Energetic Framework.md"
+git rm "KISEI-HŌ - Exercise Plan.md"
+git rm "KISEI-HŌ - Glossary.md"
+git rm "KISEI-HŌ - Integrated Analysis.md"
+git rm "KISEI-HŌ - Integrated Exercise Library.md"
+git rm "KISEI-HŌ - Narrative & Persona Guidelines.md"
+git rm "KISEI-HŌ - Output Generator.md"
+git rm "KISEI-HŌ - PHYSIOCODE -  - Clinical Architecture.md"
+git rm "KISEI-HŌ - PHYSIOCODE - Data Extraction & Classification.md"
+git rm "KISEI-HŌ - PHYSIOCODE - Pattern Integration.md"
+git rm "KISEI-HŌ - PHYSIOCODE - Therapeutic Orientation.md"
+git rm "KISEI-HŌ - Safety Rules.md"
+git rm "KISEI-HŌ - System Overview.md"
+git rm "KISEI-HŌ - Templates.md"
+git rm "KISEI-HŌ - Therapeutic Plan.md"
+git rm "KISEI-HŌ - Therapist Session Guide.md"
+git rm "KISEI-HŌ - Translation Rules.md"
+git rm "KISEI-HŌ - Unified Prescription Rules.md"
+git rm "KISEI-HŌ - Workflow Rules.md"
+git rm "KISEI‑HŌ - Developer Guide.md"
+git rm "KISEI‑HŌ - Execution Guide.md"
+git rm "KISEI‑HŌ - Postural Rehabilitation Rules.md"
+git rm "KISEI‑HŌ - Safety & Compliance.md"
+git rm "KISEI‑HŌ - Structural & Energetic Tables.md"
+git rm "KISEI‑HŌ - Template Postural Rehabilitation Plan.md"
+git rm "KISEI‑HŌ System Architecture Map.md"
+git rm "README.md"
+git rm ".gitkeep-layers"
+
+# Commit the changes
+git commit -m "Clean main branch: remove all files except Master Document, Reference Index, and readme"
+
+# Push to GitHub
+git push origin main
