@@ -1,4 +1,4 @@
-# KISEI-HŌ — Exercise Plan
+# KISEI‑HŌ — Exercise System Architecture
 *System Matrix & Protocol*
 
 **Version:** 1.1
@@ -10,7 +10,7 @@
 
 ## Document Purpose
 
-This document establishes the official architectural framework, linguistic boundaries, and generation protocols for the KISEI-HŌ Exercise Plan.
+This document establishes the official architectural framework, linguistic boundaries, and generation protocols for the KISEI-HŌ - Exercise Program for Harmonization & Structural Flow.
 It translates clinical assessment data into a non-prescriptive, sensory-driven movement orientation, acting as a bridge between structural and energetic observation and the client's internal somatic experience.
 
 **This file must remain aligned with:**
