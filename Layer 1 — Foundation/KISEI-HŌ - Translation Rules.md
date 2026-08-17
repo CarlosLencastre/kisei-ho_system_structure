@@ -1,15 +1,13 @@
 # KISEI-HŌ — Translation Rules
 (Language & Narrative File — Official Version)
 
-**Version:** 1.1
-**Date:** August 2026
-
-**Governed by:** KISEI-HŌ - Master Document.md
+**Version:** 1.1  
+**Date:** August 2026  
+**Governed by:** KISEI-HŌ - Master Document.md  
 
 ---
 
 ## Document Purpose
-
 The Translation Rules define how technical data is transformed into descriptive meaning and editorial narrative.
 They ensure coherence between PHYSIOCODE classification and client‑facing outputs, and between anamnesis data and narrative outputs.
 
@@ -29,11 +27,9 @@ They ensure coherence between PHYSIOCODE classification and client‑facing outp
 ---
 
 ## 📌 Secção 0 — Language Rules v1.1
-
 **Critical:** Read this section before applying any translation rules.
 
 ### 0.1 Output Language Classification
-
 | Type | Language | Rule |
 |------|----------|------|
 | **System Files (.md)** | EN | All content in English |
@@ -43,18 +39,23 @@ They ensure coherence between PHYSIOCODE classification and client‑facing outp
 | **Client Outputs** | PT-PT or EN | Narrative style, accessible language, transformed terminology |
 
 ### 0.2 Anamnesis Exception Rule
-
 **Clinical, biomechanical, diagnostic, and emotional terms ARE permitted in the anamnesis.**
-
 These terms must be transformed via this Translation Rules pipeline before appearing in any narrative output (client or therapist-facing).
 
 ### 0.3 Transformation Principle
-Anamnesis Input (clinical terms permitted) ↓ [This Pipeline: Sections 1-8] Narrative Output (clinical terms transformed to narrative-safe language) ↓ [Narrative & Persona Guidelines] Final Document (persona-consistent, non-clinical tone)
+Anamnesis Input (clinical terms permitted)  
+↓  
+[This Pipeline: Sections 1-8]  
+↓  
+Narrative Output (clinical terms transformed to narrative-safe language)  
+↓  
+[Narrative & Persona Guidelines]  
+↓  
+Final Document (persona-consistent, non-clinical tone)  
 
 ---
 
 ## 1. Translation Pipeline Overview
-
 Translation follows **four mandatory stages** with **eight steps**:
 
 ### Stage 1: Technical Input → Classification
@@ -80,7 +81,6 @@ Translation follows **four mandatory stages** with **eight steps**:
 ## 2. Stage 1 — Technical Input → Classification
 
 ### Step 1: Technical Input Processing
-
 Technical input includes:
 - structural deviations (effort, protection, compensation, adaptation)
 - energetic states (flow, blockage, excess, deficiency)
@@ -100,7 +100,6 @@ Technical input includes:
 ---
 
 ### Step 2: Structural Classification
-
 Classification must follow:
 - Structural & Energetic Tables
 - PHYSIOCODE Clinical Architecture
@@ -124,7 +123,6 @@ Classification must follow:
 ---
 
 ### Step 3: Energetic Classification
-
 Classification must follow:
 - Energetic Framework
 - Glossary v1.1 (symbols, Flow States)
@@ -156,7 +154,6 @@ Classification must follow:
 ## 3. Stage 2 — Classification → Meaning
 
 ### Step 4: Meaning Assignment
-
 **Meaning must:**
 - describe adaptation (how the body responds)
 - describe organisation (how the body structures effort)
@@ -179,7 +176,6 @@ Classification must follow:
 ---
 
 ### Step 5: Kyo/Jitsu Dynamic Integration
-
 When Kyo/Jitsu patterns are present, integrate them into meaning:
 
 **For Kyo (deficiency) patterns:**
@@ -202,7 +198,6 @@ When Kyo/Jitsu patterns are present, integrate them into meaning:
 ## 4. Stage 3 — Classification → Meaning
 
 ### Step 6: Editorial Transformation
-
 Editorial narrative must:
 - follow the Narrative & Persona Guidelines v1.1
 - remain calm, sensory and descriptive
@@ -218,9 +213,7 @@ Editorial narrative must:
 ---
 
 ### Step 7: Persona Compliance Check
-
 **Checklist before finalizing:**
-
 1. **Tone:** Is it calm, slow, grounded?
 2. **Language:** Is it human and accessible?
 3. **Forbidden Terms:** Are any prohibited terms present? (Check Narrative & Persona Guidelines §12.1)
@@ -238,7 +231,6 @@ Editorial narrative must:
 ## 5. Stage 4 — Output Generation
 
 ### Step 8: Language-Appropriate Output
-
 **For client outputs:**
 - Translate to PT-PT or EN based on anamnesis language preference
 - Use Narrative & Persona Guidelines for tone in target language
@@ -255,7 +247,6 @@ Editorial narrative must:
 ---
 
 ## 6. Clinical Terms Transformation Table
-
 **These terms are permitted in anamnesis but must be transformed for outputs:**
 
 | Anamnesis Term | Narrative Transformation | Rationale |
@@ -275,8 +266,7 @@ Editorial narrative must:
 ## 7. Full Translation Examples
 
 ### Example 1: Shoulder Elevation with BTL Involvement
-
-**Anamnesis Input:**
+**Anamnesis Input:**  
 "Herniated disc C5-C6, left shoulder elevation 12°, tight anterior chain"
 
 **Steps 1-3: Classification**
@@ -291,7 +281,7 @@ Editorial narrative must:
 - Energy held in upper body; lower body shows reduced activity (Kyo)
 - Jitsu dominates in upper anterior; Kyo in lower regions
 
-**Step 6-7: Editorial Narrative (PT-PT)**
+**Step 6-7: Editorial Narrative (PT-PT)**  
 "O seu corpo actualmente distribui o esforço de forma mais intensa na região superior, o que pode reflectir um padrão de protecção no pescoço e ombros. A linha anterior de tensão corporal mostra um acumular de esforço que vai do maxilar até aos flexores da anca — isto sugere que a energia pode estar a ser retida nesta via. Nas regiões inferiores, pode notar uma menor actividade, o que indica um padrão de menor presença energética. Ao trabalharmos a suavização na região superior, as regiões inferiores podem gradualmente encontrar maior equilíbrio."
 
 **Step 8: Output (PT-PT — client language)**
@@ -299,8 +289,7 @@ Editorial narrative must:
 ---
 
 ### Example 2: Lower Back Blockage with Kyo Pattern
-
-**Anamnesis Input:**
+**Anamnesis Input:**  
 "L4-L5 disc bulge, chronic lower back pain, cold sensation in lower back"
 
 **Steps 1-3: Classification**
@@ -314,7 +303,7 @@ Editorial narrative must:
 - Cold sensation indicates Kyo — insufficient energy flow
 - Body adapts by redistributing load upward
 
-**Step 6-7: Editorial Narrative (EN)**
+**Step 6-7: Editorial Narrative (EN)**  
 "Your body tends to organize effort in a protective way around your lower back, which may reflect patterns established over time. Your core region shows a holding pattern that could be limiting the natural flow of energy. You might notice that this area feels cooler or less responsive — this suggests lower energy activity in this region. As energy begins to move more smoothly, warmth may gradually return to this area."
 
 **Step 8: Output (EN — client language)**
@@ -322,8 +311,7 @@ Editorial narrative must:
 ---
 
 ### Example 3: Upper-Dominant Organization with Flow State
-
-**Anamnesis Input:**
+**Anamnesis Input:**  
 "Thoracic hyperkyphosis, shallow breathing, anxiety history"
 
 **Steps 1-3: Classification**
@@ -339,7 +327,7 @@ Editorial narrative must:
 - Rebellious Flow: energy moves upward instead of downward in cycle
 - Pattern: upper Jitsu with lower Kyo — prioritize chest softening
 
-**Step 6-7: Editorial Narrative (PT-PT)**
+**Step 6-7: Editorial Narrative (PT-PT)**  
 "A organização do seu corpo favorece actualmente a região superior — o esforço concentra-se no peito e na parte superior das costas. A linha posterior de tensão corporal mostra um acumular que vai da cabeça até aos calcanhares, o que pode limitar a respiração. A forma como a energia se move parece seguir um padrão ascendente em vez de circular naturalmente. Na zona do peito, pode haver uma sensação de plenitude ou tensão; no abdómen inferior, uma sensação de vazio ou menor actividade. Ao suavizarmos a região superior, o abdómen pode começar a encontrar maior vitalidade."
 
 **Step 8: Output (PT-PT — client language)**
@@ -347,7 +335,6 @@ Editorial narrative must:
 ---
 
 ## 8. Body Tension Line Transformation Rules
-
 **BTL descriptions must be transformed for narrative outputs:**
 
 | BTL Finding | Clinical Description | Narrative Transformation |
@@ -360,21 +347,19 @@ Editorial narrative must:
 ---
 
 ## 9. Energetic Flow State Transformation Rules
-
 **Flow State descriptions must be transformed for narrative outputs:**
 
 | Flow State | Clinical Description | Narrative Transformation |
 |------------|---------------------|--------------------------|
-| Smooth Flow → | Unobstructed energy movement | "Energy moves smoothly through the channels" |
-| Stagnant Flow ⨂ | Partial or complete obstruction | "Energy may be held or moving slowly in this area" |
+| Smooth Flow | Unobstructed energy movement | "Energy moves smoothly through the channels" |
+| Stagnant Flow | Partial or complete obstruction | "Energy may be held or moving slowly in this area" |
 | Rebellious Flow | Counter-flow or reverse movement | "Energy seems to move against its natural direction" |
-| Deficient Flow ⊖ | Insufficient energy movement | "Energy movement may be reduced or weak in this area" |
-| Excess Flow ◎ | Congested or overactive movement | "Energy may feel held or accumulated in this area" |
+| Deficient Flow | Insufficient energy movement | "Energy movement may be reduced or weak in this area" |
+| Excess Flow | Congested or overactive movement | "Energy may feel held or accumulated in this area" |
 
 ---
 
 ## 10. Kyo/Jitsu Transformation Rules
-
 **Kyo/Jitsu patterns must be transformed for narrative outputs:**
 
 | Pattern | Clinical Description | Narrative Transformation |
@@ -390,12 +375,11 @@ Editorial narrative must:
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0 | June 2026 | Initial release — three-stage pipeline, translation examples established |
-| 1.1 | August 2026 | Added Secção 0 (language rules), four-stage eight-step pipeline, Clinical Terms Transformation Table, BTL Transformation Rules, Energetic Flow State Rules, Kyo/Jitsu Transformation Rules, full examples with Kyo/Jitsu integration, aligned with Master Document v1.1, Glossary v1.1, Narrative & Persona Guidelines v1.1, Safety & Compliance v1.1 |
+| 1.1 | August 2026 | Added Secção 0 (language rules), four-stage eight-step pipeline, Clinical Terms Transformation Table, BTL Transformation Rules, Energetic Flow State Rules, Kyo/Jitsu Transformation Rules, full examples with Kyo/Jitsu integration, aligned with Master Document v1.1, Glossary v1.1, Narrative & Persona Guidelines v1.1, Safety & Compliance v1.1. Upgraded approximately notations to safe LaTeX `$\approx$` structure. |
 
 ---
 
 ## 12. Integration With Other Files
-
 **This file is referenced by:**
 - PHYSIOCODE (Data Extraction & Classification, Pattern Integration)
 - Integrated Analysis
