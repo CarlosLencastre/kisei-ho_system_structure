@@ -1,171 +1,118 @@
-# KISEI‑HŌ — Integrated Evaluation & Therapeutic Protocols
-> **Project Identity:** A comprehensive framework for evaluating and implementing somatic and energetic supportive interventions based on the KISEI‑HŌ methodology. It integrates postural assessment, energetic diagnostics, and non-prescriptive, sensory-driven movement strategies to support systemic reorganization without forced correction.
+# KISEI-HŌ System — Unified Workspace & Reference Manual
+**Version:** 1.2  
+**Date:** August 2026  
+**Governed by:** KISEI-HŌ - Master Document.md  
 
 ---
 
-## 📖 Executive Summary & Core Philosophy
+## 1. System Overview & Architecture
 
-The KISEI‑HŌ system is an advanced somatic-energetic model designed to read, analyze, and support the body's adaptive patterns. By unifying structural assessment with energetic and axis frameworks, KISEI‑HŌ maps how the body protects itself and accommodates effort over time.
+KISEI-HŌ is an advanced manual therapy system that integrates Japanese traditional somatic concepts with high-level structural and biomechanical analysis. The system processes raw postural data from the **PHYSIOCODE Anatomic Study** alongside clinical and biographical anamnesis to generate humanized, deeply resonant, and structurally sound patient documentation and therapeutic plans.
 
-### Fundamental Principle
-The entire system operates under a single governing law:
-$$\text{Identity} \longrightarrow \text{Structure} \longrightarrow \text{Meaning} \longrightarrow \text{Narrative} \longrightarrow \text{Trust}$$
-
-### Methodological Stance
-*   **What KISEI‑HŌ Is:** Descriptive, neutral, adaptive, sensory, and editorial. It focuses on the body as a protagonist, respecting its intelligence and current form of organization.
-*   **What KISEI‑HŌ Is Not:** Diagnostic, corrective, therapeutic, clinical, or spiritual. It completely avoids pathology-driven language, structural "fixing," and intrusive emotional or psychological interpretations.
+### The Core Paradigm
+*   **The Base (Sokushindo):** Stabilizing feet and ankles to send safety cues to the nervous system.
+*   **The Center (Hara & Ampuku):** Reorganizing the pelvis and releasing visceral tension.
+*   **The Crown (Sōtai & Ori):** Aligning the spine, shoulders, and cranio-cervical axis through comfort and sensory integration.
+*   **Advanced Oriental Chiropractic:** Diagnostic lens mapping physical torsion patterns alongside energetic meridians.
 
 ---
 
-## 🗂️ System Architecture (The 10-Layer Structure)
-
-The project is structured into **10 distinct functional layers** to ensure perfect modularity, separation of concerns, and system integrity.
-
-📁 Project Root/
-├── 📁 Layer 1 — Foundation/
-├── 📁 Layer 2 — System Architecture/
-├── 📁 Layer 3 — PHYSIOCODE/
-├── 📁 Layer 4 — Analysis/
-├── 📁 Layer 5 — Prescription/
-├── 📁 Layer 6 — Output Templates/
-├── 📁 Layer 7 — Exercise System/
-├── 📁 Layer 8 — Workflow v1.1/
-├── 📁 Layer 9 — Output Engine v1.1/
-└── 📁 Layer 10 — Root v1.1/
-
-### 📂 Layer 1 — Foundation
-*Defines the linguistic, behavioral, and narrative boundaries of the system. Translates raw clinical terminology into human-centered, sensory descriptions.*
-*   [KISEI‑HŌ — Persona, Method & Body Reading Criteria.md](https://github.com) – Establishes how the method speaks, behaves, and reads the body.
-*   [KISEI‑HŌ — Humanization Guidelines.md](https://github.com) – Detailed instructions for maintaining a calm, slow, and non-judgmental rhythm.
-*   [KISEI‑HŌ — Translation Rules.md](https://github.com) – Governs the pipeline: $\text{Technical Input} \longrightarrow \text{Classification} \longrightarrow \text{Meaning} \longrightarrow \text{Editorial Narrative}$.
-*   [KISEI‑HŌ — Glossary.md](https://github.com) – Central definitions of structural, energetic, axis, and narrative terms.
-*   `KISEI‑HŌ v1.1 - Update Log - Layer 1 Foundation.md` – Log tracking structural-linguistic updates.
-
-### 📂 Layer 2 — System Architecture
-*Holds the technical blueprint and development manuals of the code infrastructure.*
-*   [KISEI‑HŌ — Reference Index of System Files.md](https://github.com) – The official index to verify system completeness.
-*   [KISEI‑HŌ — Dependency Diagram.md](https://github.com) – Structural map showing how layers and files depend on each other.
-*   `KISEI‑HŌ — System Structure.md` – Technical breakdown of the project architecture.
-*   `KISEI‑HŌ — System Architecture Map.md` – Connection matrix of engine components.
-*   `KISEI‑HŌ — System Overview.md` – High-level guide to the system layers.
-*   `KISEI‑HŌ — Developer Guide.md` – Guidelines for AI-operator coding and API constraints.
-*   `KISEI‑HŌ — Execution Guide.md` – Step-by-step procedures for running the pipeline.
-
-### 📂 Layer 3 — PHYSIOCODE
-*The entry point for processing physical data and running the 8-step clinical-somatic pipeline.*
-*   [KISEI‑HŌ — PHYSIOCODE Clinical Architecture.md](https://github.com) – Governs the technical extraction and processing pipeline.
-*   `KISEI‑HŌ — PHYSIOCODE - Data Extraction & Classification.md` – Converts raw clinical/postural input into neutral classifications.
-*   `KISEI‑HŌ — PHYSIOCODE - Pattern Integration.md` – Unifies structure, BTLs, and energetic states.
-*   `KISEI‑HŌ — PHYSIOCODE - Therapeutic Orientation.md` – Maps classified patterns into safe movement intentions.
-
-### 📂 Layer 4 — Analysis
-*The interpretive engine that translates classified data into somatic and energetic maps.*
-*   [KISEI‑HŌ — Structural & Energetic Tables.md](https://github.com) – Reference tables for BTLs, Flow States, and Kyo/Jitsu.
-*   [KISEI‑HŌ — Energetic Reading Criteria.md` – Rules for regional and global energy mapping.
-*   `KISEI‑HŌ — Energetic Framework.md` – Core logic for Flow States and Kyo/Jitsu balance.
-*   [KISEI‑HŌ — Energetic Map Interpretation.md](https://github.com) – Explains global energetic movements, directionality, and systemic relationships.
-
-### 📂 Layer 5 — Prescription
-*Establishes safety limits and parameters for somatic movement orientation.*
-*   [KISEI‑HŌ — Unified Prescription Rules.md](https://github.com) – Standardized rules for selecting movement categories.
-*   `KISEI‑HŌ — Postural Rehabilitation Rules.md` – Rules integrating postural loads and Energetic Flow Scores (EFS).
-
-### 📂 Layer 6 — Output Templates
-*Standard templates and clinical structures for therapist record-keeping and customer files.*
-*   [KISEI‑HŌ — Templates.md](https://github.com) – Official empty structural templates for session outputs.
-*   `KISEI‑HŌ — Template Postural Rehabilitation Plan.md` – Empty layout for long-term supportive planning.
-
-### 📂 Layer 7 — Exercise System
-*The core movement database, split between theoretical intelligence and practical application.*
-*   [KISEI‑HŌ — Exercise Library (Integrated).md](https://github.com) – **"The Brain"**: Stores BTL-aligned, Flow State, and Kyo/Jitsu balancing categories.
-*   [KISEI‑HŌ — Integrated Exercise Library (Clinical Execution).md](https://github.com) – **"The Muscle"**: Verbatim guide containing all 55 dynamic and therapeutic exercises.
-*   `KISEI‑HŌ — Exercise Plan.md` – Inner system matrix detailing how to translate patterns into a balanced routine.
-
-### 📂 Layer 8 — Workflow v1.1
-*Defines session flow, clinical conduct, and legal/safety compliance for the therapist.*
-*   [KISEI‑HŌ — Therapist Session Guide.md](https://github.com) – Step-by-step guidance for running a 6-phase physical consultation.
-*   [KISEI‑HŌ — Internal Workflow & Safety Rules.md](https://github.com) – Structural validation checklist for system execution.
-*   [KISEI‑HŌ — Safety & Compliance.md](https://github.com) – Absolute safety guidelines, forbidden terminology, and transformation maps.
-
-### 📂 Layer 9 — Output Engine v1.1
-*The automated processing engine that structures outputs and generates safe narratives.*
-*   [KISEI‑HŌ — Output Generator.md](https://github.com) – Reads templates, sanitizes language, and produces client-ready files.
-
-### 📂 Layer 10 — Root v1.1
-*Holds the core system constitution and the final translated deliverables generated for the client.*
-*   [KISEI‑HŌ — Master Document.md](https://github.com) – The ultimate constitution of the KISEI‑HŌ system.
-*   `KISEI‑HŌ — Integrated Analysis.md` (*Análise Integrada Kisei‑HŌ*) – The structural-energetic synthesis.
-*   `KISEI‑HŌ — Therapeutic Plan.md` (*Proposta/Plano Terapêutico*) – The personalized supportive action plan.
-*   [KISEI‑HŌ — Exercise Program.md](https://github.com) (*Programa de Exercícios*) – Non-prescriptive client-facing movement routine.
-
----
-
-## 🔄 Core Pipeline & System Integration
-
-The KISEI‑HŌ engine operates under a strict data flow. No layer may bypass another.
+## 2. Global System Dependency Diagram
 
 graph TD
-    %% Base Inputs
-    Anamnesis[Anamnesis File] -->|Clinical Data| L3_PC[Layer 3: PHYSIOCODE]
+    %% Base Master Governance
+    MASTER[10 — Master Document.md] --> PHYSIO[01 — PHYSIOCODE Clinical Architecture.md]
+    MASTER --> TABLES[02 — Structural & Energetic Tables.md]
+    MASTER --> EN_READ[03 — Energetic Reading Criteria.md]
+    MASTER --> MAP_INT[04 — Energetic Map Interpretation.md]
+    MASTER --> RULES[05 — Internal Workflow & Safety Rules.md]
     
-    %% Processing Pipeline
-    L3_PC -->|Data Extraction & Classification| L4_Analysis[Layer 4: Analysis]
-    L4_Analysis -->|Unifies Structure & Energy| L8_WF[Layer 8: Workflow Rules]
-    L8_WF -->|Verifies Safety Parameters| L5_Prescription[Layer 5: Prescription Rules]
+    %% Clinical Processing & Analysis
+    PHYSIO --> IA[11 — Integrated Analysis.md]
+    PHYSIO --> OUT_GEN[12 — Output Generator.md]
+    PHYSIO --> SESS_GUIDE[06 — Therapist Session Guide.md]
     
-    %% Selection & Generation
-    L5_Prescription -->|Filters Qualities| L7_Exercise[Layer 7: Exercise System]
-    L7_Exercise -->|Validates Categories| L9_Engine[Layer 9: Output Engine]
+    TABLES --> IA
+    TABLES --> OUT_GEN
     
-    %% Templates & Formatting
-    L6_Templates[Layer 6: Templates] -->|Defines Layout| L9_Engine
-    L1_Foundation[Layer 1: Foundation] -->|Tradução & Humanização| L9_Engine
+    EN_READ --> MAP_INT
+    EN_READ --> IA
+    EN_READ --> OUT_GEN
     
-    %% Outputs
-    L9_Engine -->|Generates PT-PT/EN Deliverables| L10_Root[Layer 10: Root Patient Files]
-
-### The 8-Step Pipeline Details
-1.  **Extraction:** Scrapes structural, BTL, and energetic markers from raw data.
-2.  **Structural Processing:** Maps spatial direction, amplitude, and protective patterns.
-3.  **Energetic Processing:** Assesses Flow States (Smooth, Stagnant, Rebellious, Deficient, Excess) and Kyo/Jitsu balance.
-4.  **Axis Processing:** Analyzes Center, Root, and Firmament behavior.
-5.  **Pattern Integration:** Identifies dominant structural, energetic, BTL, or mixed patterns.
-6.  **Narrative Translation:** Applies [Humanization Guidelines](https://github.com) to translate codes into sensory prose.
-7.  **Therapeutic Orientation:** Selects non-prescriptive movements following the [Unified Prescription Rules](https://github.com).
-8.  **Safety Validation:** Runs a final check against [Safety & Compliance](https://github.com) rules.
+    MAP_INT --> IA
+    MAP_INT --> OUT_GEN
+    
+    RULES --> SESS_GUIDE
+    RULES --> OUT_GEN
+    RULES --> THER_PLAN[09 — Therapeutic Plan.md]
+    RULES --> TEMPLATES[08 — Templates.md]
+    
+    %% Language, Persona & Prescriptions
+    GLOSSARY[14 — Glossary.md] --> ALL_FILES((All System Files))
+    PERSONA[13 — Persona, Method & Body Reading Criteria.md] --> IA
+    PERSONA --> OUT_GEN
+    PERSONA --> TEMPLATES
+    
+    HUMAN_GUIDE[Humanization Guidelines] --> OUT_GEN
+    HUMAN_GUIDE --> TEMPLATES
+    HUMAN_GUIDE --> THER_PLAN
+    
+    TRANS_RULES[15 — Translation Rules.md] --> OUT_GEN
+    TRANS_RULES --> TEMPLATES
+    TRANS_RULES --> THER_PLAN
+    
+    PRES_RULES[Unified Prescription Rules] --> EX_LIB[07 — Exercise Library]
+    PRES_RULES --> OUT_GEN
+    PRES_RULES --> THER_PLAN
+    
+    %% Final Deliverables and Planning
+    TEMPLATES --> OUT_GEN
+    TEMPLATES --> IA
+    TEMPLATES --> THER_PLAN
+    
+    EX_LIB --> THER_PLAN
+    IA --> THER_PLAN
 
 ---
 
-## 🛡️ Safety & Terminology Compliance Rules
+## 3. Reference Index of System Files
+All system files are categorized into 5 operational layers to ensure absolute modularity, safety, and coherence.
 
-Safety is the absolute priority of the KISEI‑HŌ system. Technical findings must be translated into safe, non-pathological, and supportive language.
+### Layer 1: Core Architecture (Foundation)
+*   **01 — KISEI-HŌ — PHYSIOCODE Clinical Architecture.md:** Defines the biomechanical threshold parameters (using $\approx$ notation) to map angles into adaptive categories.
+*   **02 — KISEI-HŌ — Structural & Energetic Tables.md:** The primary metric dictionary translating physical measurements and symbols (⨂, ◎, ⊖) safely.
+*   **03 — KISEI-HŌ — Energetic Reading Criteria.md:** Establishes regional and global energetic mapping parameters.
+*   **04 — KISEI-HŌ — Energetic Map Interpretation.md:** Governs flow dynamics, directionality, and systemic relationships.
+*   **05 — KISEI-HŌ — Internal Workflow & Safety Rules.md:** Sets operational constraints and nervous system safety guidelines.
 
-### Forbidden Words in Client Outputs
-*   **Do Not Use:** *Diagnosis, pathology, lesion, syndrome, dysfunction, treatment, cure, disease, injured, severe, critical, fix, align, correct, release, strengthen, stretch, biomechanics.*
-*   **Instead, Use:** *Pattern, adaptation, form of organization, tension pathway, find ease, soften, support, restore naturally, allow, invite, more active, less active.*
+### Layer 2: Therapist & Session Framework
+*   **06 — KISEI-HŌ — Therapist Session Guide.md:** Step-by-step clinical execution protocol for physical sessions.
+*   **07 — KISEI-HŌ — Exercise Library (Integrated).md:** The therapeutic movement index categorized by structural and energetic intentions.
+*   **08 — KISEI-HŌ — Templates.md:** Clean, safe templates using `$\approx$` to prevent rendering conflicts.
+*   **09 — KISEI-HŌ — Therapeutic Plan.md:** Guidelines for formulating non-prescriptive, supportive home plans.
 
-### Verbatim Reframing Examples
-*   *Anamnesis:* "Herniated disc L4-L5 with severe chronic sciatica."  
-    $\longrightarrow$ *Client Output:* "long-standing patterns of tension in the lower back and lower body."
-*   *Anamnesis:* "Scoliosis 15° with joint dysfunction."  
-    $\longrightarrow$ *Client Output:* "a lateral tendency in the spine with reduced quality of movement in the area."
-*   *Anamnesis:* "Anxiety causing hypertonia at C3-C4."  
-    $\longrightarrow$ *Client Output:* "tension along the back of the neck and internal patterns holding more load."
+### Layer 3: Master System Files
+*   **10 — KISEI-HŌ — Master Document.md:** Overarching system governor defining global parameters and ethical baselines.
+*   **11 — KISEI-HŌ — Integrated Analysis.md:** The structural-energetic correlation protocols translating biomechanics to bodily narratives.
+*   **12 — KISEI-HŌ — Output Generator.md:** Automated engine rules for parsing raw data into beautifully structured client outputs.
+
+### Layer 4: Language, Persona & Translation
+*   **13 — KISEI-HŌ — Persona, Method & Body Reading Criteria.md:** Establishes the non-clinical, supportive voice of KISEI-HŌ.
+*   **14 — KISEI-HŌ — Glossary.md:** Universal terminology guide (Ki, Hara, Sokushindo, Ampuku, Sōtai, Ori, Kyo, Jitsu).
+*   **15 — KISEI-HŌ — Translation Rules.md (v1.1 updated):** Governs the 8-step pipeline converting clinical raw data into humanized client prose.
+
+### Layer 5: Client-Facing Outputs (Final Generation)
+*   **KISEI-DYNAMIC-UNIVERSAL-V1 (Dynamic Postural Analysis):** Physical alignment narrative mapped through `$\approx$`.
+*   **KISEI-MAP-ENERGY-V1 (Energy Flow Map):** Inner energy mapping, including Kyo/Jitsu qualities and the *Domino Chain* of tension.
+*   **KISEI-MAP-EXERCISE-V1 (Exercise Program for Harmonization):** The personalized movement sequence structured under the KISEI-HŌ hierarchy (Base $\rightarrow$ Center $\rightarrow$ Crown).
 
 ---
 
-## 🛠️ Setup & Usage Guide
+## 4. Crucial Mathematical Rendering Rule (LaTeX Compliance)
+To prevent the Markdown parser from interpreting approximations as strikethrough/striked text (`~~` formatting conflicts), **always use the LaTeX math notation `$\approx$`** to render approximation signs in both therapist and patient files. 
 
-### Technical Pre-requisites
-*   A markdown-compatible rendering environment or markdown parser.
-*   An LLM/Operator engine capable of processing structured markdown modules.
-*   System files saved exactly as named in the [Reference Index of System Files](https://github.com).
+*   **Wrong:** `~5.2°` or `~-6.4°` (Creates broken, strikethrough text on UI platforms)
+*   **Right:** `$\approx$ 5.2°` or `$\approx$ -6.4°` (Renders a perfect double-tilde approximation symbol: $\approx$)
 
-### Execution Workflow for Operators
-1.  **Initialize:** Ensure all files from Layers 1-10 are loaded into the workspace.
-2.  **Input:** Paste the patient’s anamnesis and postural measurements into the [PHYSIOCODE](https://github.com) engine.
-3.  **Process:** Execute Steps 1 to 5 of the pipeline to identify the dominant pattern.
-4.  **Draft:** Generate the raw, technical `Integrated Analysis`.
-5.  **Translate:** Run the translation module, applying [Translation Rules](https://github.com) and Portuguese of Portugal (PT-PT) grammar.
-6.  **Verify:** Run the `Safety & Compliance` validation script. Any forbidden term must be automatically replaced using the Error Matrix.
-7.  **Export:** Save the final sanitized outputs (`Integrated Analysis`, `Therapeutic Plan`, `Exercise Program`) to the **Layer 10** directory.
+---
+**End of README.md v1.2**
