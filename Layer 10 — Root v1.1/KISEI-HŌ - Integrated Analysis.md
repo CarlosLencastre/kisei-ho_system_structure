@@ -11,7 +11,7 @@
 ## Document Purpose
 
 The Integrated Analysis is the central interpretative layer of the KISEI-HŌ method.
-It unifies structural deviations, energetic states, axis behaviour, compensatory patterns, Body Tension Lines, Flow States, and Kyo/Jitsu patterns into a single coherent reading of the body.
+It unifies structural deviations, energetic states, axis behaviour, compensatory patterns, Body Tension Lines, Flow States, and Kyo/Jitsu patterns into a single coherent reading of the body. All the degrees referenced must be proceeded by $\approx$
 
 **This file is used by:**
 - PHYSIOCODE Clinical Architecture v1.1
