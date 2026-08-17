@@ -76,7 +76,7 @@ The following templates are used in KISEI-HŌ:
 ### Example 1: Structural Reading Template
 
 **Input:**
-- Structural: Shoulders elevated (+12°), Spine neutral
+- Structural: Shoulders elevated ($\approx$ +12°), Spine neutral
 - BTL: Posterior BTL dominant, tension from skull to heels
 - Energetic: Shoulders show blockage, Spine shows normal flow
 
