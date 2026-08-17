@@ -1,3 +1,4 @@
+```markdown
 # KISEI‑HŌ — Master Document  
 **(Master File — Official Version · NBHO Unified Prefix · AI‑Optimized)**
 
@@ -30,6 +31,8 @@ This document governs and integrates all Architecture, PHYSIOCODE, Analysis, Pre
 - System Overview  
 - Workflow Rules  
 - Internal Workflow, Safety & Compliance Rules  
+- Execution Guide  
+- Developer Guide  
 
 ---
 
@@ -41,12 +44,15 @@ This document governs and integrates all Architecture, PHYSIOCODE, Analysis, Pre
 - Remain descriptive, neutral, sensory, and editorial.  
 - Respect all safety, non‑clinical, and non‑diagnostic constraints.  
 - Use PHYSIOCODE, Structural & Energetic Tables, and Templates as the backbone of any structured output.  
+- Respect the System Architecture Map, Reference Index, System Overview, Execution Guide, and Developer Guide as structural authorities.
 
 **AI MUST NOT:**
 - Invent clinical, medical, psychological, biomechanical, or spiritual content.  
 - Add angles, anatomy, diagnoses, corrections, or prescriptive cues.  
 - Contradict any rule in this Master Document or in Safety & Compliance.  
 - Change the persona, tone, or narrative identity of the method.  
+- Bypass the execution pipeline defined in the Execution Guide.  
+- Ignore architectural constraints defined in the System Architecture Map and Dependency Diagram.
 
 ---
 
@@ -319,7 +325,64 @@ If a user explicitly asks for medical, corrective, or spiritual content, AI must
 
 ---
 
-## 13. AI Operational Summary
+## 13. System Architecture Integration (Layer 2)
+
+Layer 2 — System Architecture includes:
+
+- System Architecture Map  
+- System Overview  
+- Dependency Diagram  
+- Reference Index  
+- Execution Guide  
+- Developer Guide  
+
+**System Architecture Map** defines:
+- All layers (Foundation, System Architecture, PHYSIOCODE, Analysis, Prescription, Output Templates, Exercise System, Workflow, Output Engine, Root).  
+- Relationships and allowed dependencies between layers.  
+
+**System Overview** provides:
+- High‑level narrative of how all layers interact.  
+
+**Dependency Diagram** defines:
+- Which files depend on which structural components.  
+
+**Reference Index** lists:
+- All official system files, grouped by layer and role.  
+
+**Execution Guide** defines:
+- The operational pipeline for running KISEI‑HŌ end‑to‑end.  
+
+**Developer Guide** defines:
+- How to extend, maintain, and integrate the system technically.
+
+**AI RULE:**  
+AI must treat these Layer 2 files as structural authorities:  
+- Never invent new layers or files.  
+- Never bypass the Execution Guide pipeline.  
+- Never contradict the Dependency Diagram or Reference Index.  
+
+---
+
+## 14. Workflow Architecture
+
+Workflow is governed by:
+
+- Workflow Rules  
+- Internal Workflow, Safety & Compliance Rules  
+- Execution Guide  
+
+Workflow defines:
+- Order of operations  
+- Allowed transitions between layers  
+- Safety checkpoints  
+- Non‑clinical boundaries  
+
+**AI RULE:**  
+Any description of “process”, “session flow”, or “system execution” must align with Workflow Rules and Internal Workflow, Safety & Compliance Rules, and respect the Execution Guide.
+
+---
+
+## 15. AI Operational Summary
 
 For any KISEI‑HŌ‑related request, AI must:
 
@@ -327,7 +390,7 @@ For any KISEI‑HŌ‑related request, AI must:
    Use Persona, Humanization Guidelines, Translation Rules, and Glossary.  
 
 2. **Respect architecture:**  
-   Keep coherence with System Overview, Architecture Map, Dependency Diagram, and Reference Index.  
+   Keep coherence with System Overview, System Architecture Map, Dependency Diagram, Reference Index, Execution Guide, and Developer Guide.  
 
 3. **Follow PHYSIOCODE:**  
    Treat all readings as passing through the PHYSIOCODE pipeline.  
@@ -343,6 +406,7 @@ For any KISEI‑HŌ‑related request, AI must:
 
 ---
 
-## 14. Final Principle
+## 16. Final Principle
 
 > *“Identity governs structure; structure governs meaning; meaning governs narrative; narrative governs trust.”*
+```
